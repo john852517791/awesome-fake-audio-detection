@@ -83,7 +83,7 @@ Here is nothing about speech signal processing, speech synthesis, voice conversi
 
 ### graph neural network	
 
-- Aasist: Audio anti-spoofing using integrated spectro-temporal graph attention networks [paper](https://arxiv.org/pdf/2110.01200.pdf) [code]([GitHub - clovaai/aasist: Official PyTorch implementation of "AASIST: Audio Anti-Spoofing using Integrated Spectro-Temporal Graph Attention Networks"](https://github.com/clovaai/aasist)) 
+- Aasist: Audio anti-spoofing using integrated spectro-temporal graph attention networks [paper](https://arxiv.org/pdf/2110.01200.pdf) [code](https://github.com/clovaai/aasist) 
 - End-to-End Spectro-Temporal Graph Attention Networks for Speaker Verification Anti-Spoofing and Speech Deepfake Detection [paper](https://arxiv.org/pdf/2107.12710.pdf)  [code](https://github.com/eurecom-asp/RawGAT-ST-antispoofing)
 
 ### CQCC feature
@@ -122,9 +122,9 @@ Here is nothing about speech signal processing, speech synthesis, voice conversi
 
 ## data augmentation
 
-- Improved mixed-example data augmentation [paper](https://arxiv.org/pdf/1805.11272.pdf) [code]([GitHub - ceciliaresearch/MixedExample](https://github.com/ceciliaresearch/MixedExample))
+- Improved mixed-example data augmentation [paper](https://arxiv.org/pdf/1805.11272.pdf) [code](https://github.com/ceciliaresearch/MixedExample)
 
-- RAWBOOST: A RAW DATA BOOSTING AND AUGMENTATION METHOD APPLIED TO AUTOMATIC SPEAKER VERIFICATION ANTI-SPOOFING [paper](https://arxiv.org/pdf/2111.04433.pdf) [code]([GitHub - TakHemlata/RawBoost-antispoofing: This repository includes the code to reproduce our paper "RawBoost: A Raw Data Boosting and Augmentation Method applied to Automatic Speaker Verification Anti-Spoofing".](https://github.com/TakHemlata/RawBoost-antispoofing))
+- RAWBOOST: A RAW DATA BOOSTING AND AUGMENTATION METHOD APPLIED TO AUTOMATIC SPEAKER VERIFICATION ANTI-SPOOFING [paper](https://arxiv.org/pdf/2111.04433.pdf) [code](https://github.com/TakHemlata/RawBoost-antispoofing)
 
 
 
