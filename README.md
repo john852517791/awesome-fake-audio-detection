@@ -19,7 +19,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 # datasets
 
-- **ASVspoof:** https://www.asvspoof.org/database
+- **ASVspoof:** https://www.asvspoof.org/database 
+- **partial spoof**: [paper](https://arxiv.org/pdf/2204.05177.pdf) [dataset download](https://zenodo.org/record/5766198)
 
 
 
@@ -97,7 +98,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 - SPEAKER RECOGNITION FROM RAW WAVEFORM WITH SINCNET [paper](https://arxiv.org/pdf/1808.00158.pdf) [code](https://github.com/mravanelli/SincNet/)
 
-  rawnet 	[code](https://github.com/Jungjee/RawNet) 
+  rawnet 	[1、2、3 all code](https://github.com/Jungjee/RawNet) 
 
 - RawNet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification [paper](https://arxiv.org/pdf/1904.08104.pdf) 
 
