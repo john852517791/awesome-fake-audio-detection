@@ -14,6 +14,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 - [Competitions](#competitions)
 - [Tools](#tools)
 - [Recent Conference Papers](#recent-conference-papers)
+- [classification](#classification)
+- [enlightening](#enlightening)
+
 
 
 
