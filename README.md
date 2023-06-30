@@ -62,7 +62,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 - LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION [paper](https://arxiv.org/pdf/2303.01211.pdf) 
 - CAN SPOOFING COUNTERMEASURE AND SPEAKER VERIFICATION SYSTEMS BE JOINTLY OPTIMISED? [paper](https://arxiv.org/pdf/2303.07073.pdf)
 - SPOOFED TRAINING DATA FOR SPEECH SPOOFING COUNTERMEASURE CAN BE EFFICIENTLY CREATED USING NEURAL VOCODERS  [paper](https://arxiv.org/pdf/2210.10570.pdf)
-
+- Phase-Aware Spoof Speech Detection Based on Res2Net with Phase Network [paper](https://arxiv.org/pdf/2203.10793.pdf)
 
 
 
