@@ -6,7 +6,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 This repo only collect papers related to FAD.  
 
-Here is nothing about speech signal processing, speech synthesis, voice conversion and speech edition. But learning them is beneficial to your research about FAD.
+Here is nothing about speech signal processing, speech synthesis, Speech Enhancement, data augmentation, voice conversion and speech edition. But learning them is beneficial to your research about FAD.
 
 ## Contents
 
@@ -55,7 +55,9 @@ Here is nothing about speech signal processing, speech synthesis, voice conversi
 
 ### 2023
 
-- 
+- LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION [paper](https://arxiv.org/pdf/2303.01211.pdf) 
+- CAN SPOOFING COUNTERMEASURE AND SPEAKER VERIFICATION SYSTEMS BE JOINTLY OPTIMISED? [paper](https://arxiv.org/pdf/2303.07073.pdf)
+- SPOOFED TRAINING DATA FOR SPEECH SPOOFING COUNTERMEASURE CAN BE EFFICIENTLY CREATED USING NEURAL VOCODERS  [paper](https://arxiv.org/pdf/2210.10570.pdf)
 
 
 
@@ -140,9 +142,13 @@ Here is nothing about speech signal processing, speech synthesis, voice conversi
 
 - Your Out-of-Distribution Detection Method is Not Robust! [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1f6591cc41be737e9ba4cc487ac8082d-Paper-Conference.pdf)  [code](https://github.com/rohban-lab/ATD)
 - Watermarking for Out-of-distribution Detection [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/63fa7efdd3bcf944a4bd6e0ff6a50041-Paper-Conference.pdf)  [code](https://github.com/QizhouWang/watermarking)
-- 
 
 
 
+### 2023
 
+- DETECTING OUT-OF-DISTRIBUTION EXAMPLES VIA CLASS-CONDITIONAL IMPRESSIONS REAPPEARING  [paper](https://arxiv.org/pdf/2303.09746.pdf) 
+- MCROOD: MULTI-CLASS RADAR OUT-OF-DISTRIBUTION DETECTION [paper](https://arxiv.org/pdf/2303.06232.pdf) 
+- DO PROSODY TRANSFER MODELS TRANSFER PROSODY?  [paper](https://arxiv.org/pdf/2303.04289.pdf) 
+- TWO-STREAM DECODER FEATURE NORMALITY ESTIMATING NETWORK FOR INDUSTRIAL ANOMALY DETECTION [paper](https://arxiv.org/pdf/2302.09794.pdf) 
 
