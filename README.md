@@ -47,11 +47,22 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## interspeech [website](https://interspeech2023.org/)
 
-### 2023
+### 2023 [papers](https://www.isca-speech.org/archive/interspeech_2023/)
 
-- 
-
-
+- Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms [paper](https://www.isca-speech.org/archive/interspeech_2023/wen23_interspeech.html)
+- Malafide: a novel adversarial convolutive noise attack against deepfake and spoofing detection systems [paper](https://www.isca-speech.org/archive/interspeech_2023/panariello23b_interspeech.html)
+- How to Construct Perfect and Worse-than-Coin-Flip Spoofing Countermeasures: A Word of Warning on Shortcut Learning [paper](https://www.isca-speech.org/archive/interspeech_2023/shim23b_interspeech.html)
+- Spoofing Attacker Also Benefits from Self-Supervised Pretrained Model [paper](https://www.isca-speech.org/archive/interspeech_2023/ito23_interspeech.html)
+- Towards single integrated spoofing-aware speaker verification embeddings [paper](https://www.isca-speech.org/archive/interspeech_2023/mun23_interspeech.html)
+- DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures [paper](https://www.isca-speech.org/archive/interspeech_2023/zhang23c_interspeech.html)
+- Speaker-Aware Anti-spoofing [paper](https://www.isca-speech.org/archive/interspeech_2023/liu23o_interspeech.html)
+- Range-Based Equal Error Rate for Spoof Localization [paper](https://www.isca-speech.org/archive/interspeech_2023/zhang23v_interspeech.html)
+- A conformer-based classifier for variable-length utterance processing in anti-spoofing [paper](https://www.isca-speech.org/archive/interspeech_2023/rosello23_interspeech.html)
+- Multi-Dataset Co-Training with Sharpness-Aware Optimization for Audio Anti-spoofing [paper](https://www.isca-speech.org/archive/interspeech_2023/shim23c_interspeech.html)
+- Phase perturbation improves channel robustness for speech spoofing countermeasures [paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html)
+- Towards Attention-based Contrastive Learning for Audio Spoof Detection [paper](https://www.isca-speech.org/archive/interspeech_2023/goel23_interspeech.html)
+- Synthetic Voice Spoofing Detection based on Feature Pyramid Conformer [paper](https://www.isca-speech.org/archive/interspeech_2023/gong23b_interspeech.html)
+- Robust audio anti-spoofing countermeasure with joint training of front-end and back-end models [with no disrespect, but this work is A piece of shit, paper](https://www.isca-speech.org/archive/interspeech_2023/wang23v_interspeech.html#:~:text=Therefore%2C%20we%20proposes%20a%20new%20framework%20for%20robust,framework%20is%20more%20effective%20than%20the%20cascaded%20framework.)
 
 
 
@@ -59,14 +70,18 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## ICASSP [website](https://2023.ieeeicassp.org/)
 
+### 2024 (submitted but not accepted)
+- Can large-scale vocoded spoofed data improve speech spoofing countermeasure with a self-supervised front end? [paper](https://arxiv.org/pdf/2309.06014.pdf)
+- Towards generalisable and calibrated synthetic speech detection with self-supervised representations [paper](https://arxiv.org/abs/2309.05384)
+
 ### 2023
 
-- LEARNING FROM YOURSELF: A SELF-DISTILLATION METHOD FOR FAKE SPEECH DETECTION [paper](https://arxiv.org/pdf/2303.01211.pdf) 
-- CAN SPOOFING COUNTERMEASURE AND SPEAKER VERIFICATION SYSTEMS BE JOINTLY OPTIMISED? [paper](https://arxiv.org/pdf/2303.07073.pdf)
+- Learning From Yourself: A Self-Distillation Method for Fake Speech Detection [paper](https://arxiv.org/pdf/2303.01211.pdf) 
+- Can spoofing countermeasure and speaker verification systems be jointly optimised?? [paper](https://arxiv.org/pdf/2303.07073.pdf)
 - SPOOFED TRAINING DATA FOR SPEECH SPOOFING COUNTERMEASURE CAN BE EFFICIENTLY CREATED USING NEURAL VOCODERS  [paper](https://arxiv.org/pdf/2210.10570.pdf)
 - Phase-Aware Spoof Speech Detection Based on Res2Net with Phase Network [paper](https://arxiv.org/pdf/2203.10793.pdf)
-
-
+- Leveraging Positional-Related Local-Global Dependency for Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/document/10096278)
+- Reliability Estimation for Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/abstract/document/10095524)
 
 
 
