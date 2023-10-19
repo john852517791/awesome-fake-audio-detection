@@ -78,7 +78,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 - Learning From Yourself: A Self-Distillation Method for Fake Speech Detection [paper](https://arxiv.org/pdf/2303.01211.pdf) 
 - Can spoofing countermeasure and speaker verification systems be jointly optimised?? [paper](https://arxiv.org/pdf/2303.07073.pdf)
-- SPOOFED TRAINING DATA FOR SPEECH SPOOFING COUNTERMEASURE CAN BE EFFICIENTLY CREATED USING NEURAL VOCODERS  [paper](https://arxiv.org/pdf/2210.10570.pdf)
+- Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders  [paper](https://arxiv.org/pdf/2210.10570.pdf)
 - Phase-Aware Spoof Speech Detection Based on Res2Net with Phase Network [paper](https://arxiv.org/pdf/2203.10793.pdf)
 - Leveraging Positional-Related Local-Global Dependency for Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/document/10096278)
 - Reliability Estimation for Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/abstract/document/10095524)
