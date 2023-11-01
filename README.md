@@ -70,7 +70,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## ICASSP [website](https://2023.ieeeicassp.org/)
 
-### 2024 (submitted but not accepted)
+### 2024 (submitted but not accepted yet)
 - Can large-scale vocoded spoofed data improve speech spoofing countermeasure with a self-supervised front end? [paper](https://arxiv.org/pdf/2309.06014.pdf)
 - Towards generalisable and calibrated synthetic speech detection with self-supervised representations [paper](https://arxiv.org/abs/2309.05384)
 
