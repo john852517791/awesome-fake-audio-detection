@@ -76,7 +76,7 @@ eer-0.71(0.58) , three runs averaged(best)
 
 ##### comments
 
-well designed model, better performance than the aasist using raw wavform, using linear filterbanks as input and modeling it can make the FAD method more interpretable. it's **pity** the model is not open source, otherwise the community could be using it to do more exploration about how and why this model architecture could work and what exactly this model based on to detect fake audio.
+well designed model, better performance than the aasist using raw wavform, using linear filterbanks as input and modeling it can make the FAD method more interpretable. it's a **pity** the model is not open source, otherwise the community could be using it to do more exploration about how and why this model architecture could work and what exactly this model based on to detect fake audio.
 
 #### Can Spoofing Countermeasure And Speaker Verification Systems Be Jointly Optimised?
 
