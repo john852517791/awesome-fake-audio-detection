@@ -1,12 +1,12 @@
 paper summarization
 
-i only focus on the LA track of FAD
+i only focus on the LA track of FAD（partial spoof is not my concern）
 
 # icassp
 
 ## 2023
 
-#### Learning From Yourself: A Self-Distillation Method for Fake Speech Detection
+### Learning From Yourself: A Self-Distillation Method for Fake Speech Detection
 
 ##### method
 
@@ -34,7 +34,7 @@ additional portable classifiers need to be train additionally and distillation t
 
 good idea anyway
 
-#### Graph-Based Spectro-Temporal Dependency Modeling for Anti-Spoofing
+### Graph-Based Spectro-Temporal Dependency Modeling for Anti-Spoofing
 
 ##### method
 
@@ -78,7 +78,7 @@ eer-0.71(0.58) , three runs averaged(best)
 
 well designed model, better performance than the aasist using raw wavform, using linear filterbanks as input and modeling it can make the FAD method more interpretable. it's **pity** the model is not open source, otherwise the community could be using it to do more exploration about how and why this model architecture could work and what exactly this model based on to detect fake audio.
 
-#### Can Spoofing Countermeasure And Speaker Verification Systems Be Jointly Optimised?
+### Can Spoofing Countermeasure And Speaker Verification Systems Be Jointly Optimised?
 
 ##### method
 
@@ -94,21 +94,9 @@ FAD is an un-well-solved problem, and so does low-resource-speaker-identificatio
 
 
 
-#### Waveform Boundary Detection for Partially Spoofed Audio
-
-##### method
 
 
-
-##### experiments
-
-
-
-##### comments
-
-
-
-#### Spoofed Training Data for Speech Spoofing Countermeasure Can Be Efficiently Created Using Neural Vocoders
+### Spoofed Training Data for Speech Spoofing Countermeasure Can Be Efficiently Created Using Neural Vocoders
 
 ##### method
 
@@ -145,65 +133,116 @@ the vocoded data can be quite useful to explore more training methods
 
 
 
-#### Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing
+### SAMO: Speaker Attractor Multi-Center One-Class Learning For Voice Anti-Spoofing
 
 ##### method
 
+work after OC-softmax, basic idea of OC-softmax is the bonafide speech feature should be more compact. 
 
+this paper points out that the performance might be influenced by the diversity of speakers, so multi-center one-class learning is proposed
+
+using aasist as backbone
+
+```python
+# code difference
+# oc softmax with only one center
+self.center = torch.eye(self.feat_dim)[:1]
+# samo using centers
+self.center = torch.eye(self.feat_dim)[:self.num_centers]
+```
+
+need to set interval to update the centers, and using cosine similarity to compute the loss between feature and centers
 
 ##### experiments
+
+proving points: better than oc-softmax
+
+datasets: asvspoof19 LA
+
+|                     | eer[3 runs average(best)] |
+| ------------------- | ------------------------- |
+| softmax             | 1.74(1.25)                |
+| oc-softmax          | 1.25(1.17)                |
+| samo w enrollment   | 1.09(0.91)                |
+| samo w/o enrollment | 1.08(0.88)                |
 
 
 
 ##### comments
 
+good motivation, num_centers is a tricky thing, i think it should not be constrained by the number of speakers in train set (experiments to be done)
 
+long live open source!!! may the authors who wrote this have good fortune in the future research to do
 
-
-
-#### SAMO: Speaker Attractor Multi-Center One-Class Learning For Voice Anti-Spoofing
+### Phase-Aware Spoof Speech Detection Based On Res2net with Phase Network
 
 ##### method
 
+if we know the phase and magnitude info, we can reconstruct the audio and image.[ yes, the idea of this paper comes from the CV field ]
 
+the combination of phase and magnitude info in previous studies might be defected by the randomness of the phase spectrum, so this paper proposes that using a network to first additionally process the phase, then conduct the combination.  
+
+![image-20240106191040753](readme.assets/image-20240106191040753.png)
 
 ##### experiments
+
+proving points: better performance compare to the previous methods using magnitude and phase info
+
+datasets: asvspoof19 LA+PA
+
+| using CQT+Phase                  | eer        |
+| -------------------------------- | ---------- |
+| res2net (base)                   | 1.7(1.31)  |
+| feature fusion                   | 1.76(1.47) |
+| score fusion                     | 1.63(1.29) |
+| feature fusion and phase network | 1.07(0.94) |
 
 
 
 ##### comments
 
+how randomness  of the phase spectrum influences the network prediction and feature? 
 
+this question is quite hard to answer and prove
 
-#### Phase-Aware Spoof Speech Detection Based On Res2net with Phase Network
-
-##### method
-
-
-
-##### experiments
+and this network (i think) might be quite sensitive to the channel encoding and noise 
 
 
 
-##### comments
-
-
-
-#### Leveraging Positional-Related Local-Global Dependency for Synthetic Speech Detection
+### Leveraging Positional-Related Local-Global Dependency for Synthetic Speech Detection
 
 ##### method
 
 this paper presents a new model architecture
 
+![image-20240106193018729](readme.assets/image-20240106193018729.png)
+
+three parts of this model is clear to understand
+
+1. sinclayer is proved to be a good feature extractor, like rawnet2
+2. positional aggregator is from a CV field paper
+3. classifier is similar with a SPL paper[The Role of Long-Term Dependency in Synthetic Speech Detection]
+
 ##### experiments
+
+datasets: asvspoof 19+21 LA
+
+|      | fixed(64600) | var  |
+| ---- | ------------ | ---- |
+| 19   | 1.05         | 0.59 |
+| 21   | 4.98         | 4.53 |
 
 
 
 ##### comments
 
+this model is like a lego, the performance is so goooooood, but not open source, another pity, but there is an unofficial implementation (not having a try yet)
 
 
-#### Identifying Source Speakers for Voice Conversion Based Spoofing Attacks on Speaker Verification Systems
+
+
+
+### Reliability Estimation for Synthetic Speech Detection
 
 ##### method
 
