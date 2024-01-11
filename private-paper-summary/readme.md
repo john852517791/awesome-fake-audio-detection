@@ -2,6 +2,20 @@ paper summarization
 
 i only focus on the LA track of FAD（partial spoof is not my concern）
 
+this document is to record my thoughts and paper summary after reading papers. 
+
+in the **METHOD** section,i will briefly introduce what paper is about. 
+
+in the **experiments** section, i will record some results i am interested. 
+
+finally in the **COMMENTS** section, i will write down something might be offensive or pleasing depends on the quality of the paper and my mood
+
+method
+
+experiments
+
+comments
+
 # icassp
 
 ## 2023
@@ -30,7 +44,7 @@ not SOTA  but method is proved effective
 
 ##### comments
 
-additional portable classifiers need to be train additionally and distillation temperature can be very uncertain, it might be a good way to improve base model, but too uneasy
+additional portable classifiers need to be trained additionally and distillation temperature can be very uncertain, it might be a good way to improve base model, but too uneasy
 
 good idea anyway
 
@@ -246,15 +260,81 @@ this model is like a lego, the performance is so goooooood, but not open source,
 
 ##### method
 
+using another network to decide if the embedding is deserved to be detected as real or fake (output a score, network is a simple FC*3, more details in paper)
 
+![image-20240108163708798](readme.assets/image-20240108163708798.png)
+
+
+
+![image-20240108163731491](readme.assets/image-20240108163731491.png)
 
 ##### experiments
 
+improve the accuracy as shown in the ROC curve
 
+##### comments
+
+the method is familiar with score fusion methods, but changes that to another saying
+
+there will be an basic problem is that we should train another network, and i doubt its stability and generalization when the FAD network changed to another   
+
+but this paper focus on the generalization capabilities of the proposed method on unseen datasets
+
+
+
+# icme
+
+### Mel-Spectrogram Image-Based End-to-End Audio Deepfake Detection Under Channel-Mismatched Conditions
+
+##### method
+
+##### experiments
 
 ##### comments
 
 
 
+# interspeech
 
+## 2023
+
+### Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms
+
+##### method
+
+fuse multi-order spectrograms to gain fused feature for FAD
+
+consider sincnet output as first order spectrogram, use  ResNet*6 as encoder
+
+consider LFCC as second order spectrogram, use ResNet-18 as encoder
+
+![image-20240111203705317](readme.assets/image-20240111203705317.png)
+
+
+
+
+
+using the final fusion feature to respectively reconstruct the raw-wav and LFCC for minimizing the information loss, both reconstruction losses are mse Loss
+
+the classifier is AASIST
+
+##### experiments
+
+ASVspoof19LA-EER ( 0.77 )
+
+![image-20240111210427627](readme.assets/image-20240111210427627.png)
+
+ablation study shows that the fusion is mostly better than only using one of them
+
+![image-20240111210634149](readme.assets/image-20240111210634149.png)
+
+concat seems the simplest and the secondly effective way :)
+
+##### comments
+
+the code is available, great!
+
+shining point is the motivation of the reconstruction part
+
+but i think maybe better using mutual information methods to further lower the influence that one spectrogram might cause to another one?  and then using concat :) 
 
