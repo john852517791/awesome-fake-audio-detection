@@ -41,6 +41,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 [asvspoof2021 baseline implementation](https://github.com/asvspoof-challenge/2021.git)
 
+# whole pic (not completed yet)
+![FAD](FAD.png)
 
 
 # recent conference papers
