@@ -71,10 +71,34 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 ## ICASSP [website](https://2023.ieeeicassp.org/)
+ 
+### 2024 
+- A Green Learning Approach to Spoofed Speech Detection  
+- A Robust Audio Deepfake Detection System via Multi-View Feature 
+- An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection 
+- Assessing GNSS Carrier-to-Noise-Density Ratio Estimation in The Presence of Meaconer Interference 
+- Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier 
+- Audio Transformer for Synthetic Speech Detection via Formant Magnitude and Phase Analysis
+- Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End? 
+- CPAUG: Refining Copy-Paste Augmentation for Speech Anti-Spoofing
+- Does Audio Deepfake Detection Rely on Artifacts?
+- Frame-to-Utterance Convergence: A Spectra-Temporal Approach for Unified Spoofing Detection
+- Frequency Masking for Universal Deepfake Detection
+- FSD: An Initial Chinese Dataset for Fake Song Detection
+- GMM-ResNet2: Ensemble of Group Resnet Networks for Synthetic Speech Detection
+- HM-CONFORMER: A Conformer-Based Audio Deepfake Detection System with Hierarchical Pooling and Multi-Level Classification Token Aggregation Methods
+- Improving Short Utterance Anti-Spoofing with Aasist2
+- Mdrt: Multi-Domain Synthetic Speech Localization
+- MOS-FAD: Improving Fake Audio Detection Via Automatic Mean Opinion Score Prediction
+- Multi-Scale Permutation Entropy for Audio Deepfake Detection
+- One-Class Knowledge Distillation for Spoofing Speech Detection
+- Robust Spoof Speech Detection Based on Multi-Scale Feature Aggregation and Dynamic Convolution
+- SingFake: Singing Voice Deepfake Detection
+- Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?
+- VFD-Net: Vocoder Fingerprints Detection for Fake Audio
 
-### 2024 (submitted but not accepted yet)
-- Can large-scale vocoded spoofed data improve speech spoofing countermeasure with a self-supervised front end? [paper](https://arxiv.org/pdf/2309.06014.pdf)
-- Towards generalisable and calibrated synthetic speech detection with self-supervised representations [paper](https://arxiv.org/abs/2309.05384)
+
+
 
 ### 2023
 
