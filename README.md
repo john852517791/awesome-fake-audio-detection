@@ -55,6 +55,46 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## interspeech [website](https://www.isca-archive.org/index.html)
 
+
+### 2024
+-  Fixing Domain Bias for Generalized Deepfake Detection
+-  Anti-spoofing Ensembling Model: Dynamic Weight Allocation in Ensemble Models for Improved Voice Biometrics Security
+-  Spoof Diarization: ""What Spoofed When"" in Partially Spoofed Audio
+-  Spoofing Speech Detection by Modeling Local Spectro-Temporal and Long-term Dependency
+-  Improving Copy-Synthesis Anti-Spoofing Training Method with Rhythm and Speaker Perturbation
+-  Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection
+-  Source Tracing of Audio Deepfake Systems
+-  How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?
+-  Revisiting and Improving Scoring Fusion for Spoofing-aware Speaker Verification Using Compositional Data Analysis
+-  SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures
+-  Interpretable Temporal Class Activation Representation for Audio Spoofing Detection
+-  DGPN: A Dual Graph Prototypical Network for Few-Shot Speech Spoofing Algorithm Recognition
+-  CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems
+-  Spoofed Speech Detection with a Focus on Speaker Embedding
+-  Exploring Self-supervised Embeddings and Synthetic Data Augmentation for Robust Audio Deepfake Detection
+-  One-class learning with adaptive centroid shift for audio deepfake detection
+-  Towards generalisable and calibrated audio deepfake detection with self-supervised representations
+-  Singing Voice Graph Modeling for SingFake Detection
+-  Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection
+-  Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism
+-  To what extent can ASV systems naturally defend against spoofing attacks?
+-  Balance, Multiple Augmentation, and Re-synthesis: A Triad Training Strategy for Enhanced Audio Deepfake Detection
+-  Speech Formants Integration for Generalized Detection of Synthetic Speech Spoofing Attacks
+-  Adapter Learning from Pre-trained Model for Robust Spoof Speech Detection
+-  Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection
+-  Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
+-  Frequency-mix Knowledge Distillation for Fake Speech Detection
+-  HarmoNet: Partial DeepFake Detection Network based on Multi-scale HarmoF0 Feature Fusion
+-  A New Approach to Voice Authenticity
+-  Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset
+-  Harder or Different? Understanding Generalization of Audio Deepfake Detection
+-  RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection
+-  Generalized Fake Audio Detection via Deep Stable Learning
+-  CtrSVDD: A Benchmark Dataset and Baseline Analysis for Controlled Singing Voice Deepfake Detection
+-  FakeSound: Deepfake General Audio Detection
+
+
+
 ### 2023 [papers](https://www.isca-speech.org/archive/interspeech_2023/)
 
 - Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms [paper](https://www.isca-speech.org/archive/interspeech_2023/wen23_interspeech.html)
