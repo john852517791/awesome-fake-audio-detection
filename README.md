@@ -20,6 +20,12 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 
+# survey
+-  [Audio Anti-Spoofing Detection: A Survey](https://arxiv.org/abs/2404.13914) 
+-  [Audio Deepfake Detection: A Survey](https://arxiv.org/abs/2308.14970) 
+
+
+
 # datasets
 
 - **ASVspoof2015-2017-2019-2021:** [website](https://www.asvspoof.org/database )
