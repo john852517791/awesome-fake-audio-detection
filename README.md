@@ -57,41 +57,41 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 ### 2024
--  Fixing Domain Bias for Generalized Deepfake Detection
--  Anti-spoofing Ensembling Model: Dynamic Weight Allocation in Ensemble Models for Improved Voice Biometrics Security
--  Spoof Diarization: ""What Spoofed When"" in Partially Spoofed Audio
--  Spoofing Speech Detection by Modeling Local Spectro-Temporal and Long-term Dependency
--  Improving Copy-Synthesis Anti-Spoofing Training Method with Rhythm and Speaker Perturbation
--  Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection
--  Source Tracing of Audio Deepfake Systems
--  How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?
--  Revisiting and Improving Scoring Fusion for Spoofing-aware Speaker Verification Using Compositional Data Analysis
--  SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures
--  Interpretable Temporal Class Activation Representation for Audio Spoofing Detection
--  DGPN: A Dual Graph Prototypical Network for Few-Shot Speech Spoofing Algorithm Recognition
--  CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems
--  Spoofed Speech Detection with a Focus on Speaker Embedding
--  Exploring Self-supervised Embeddings and Synthetic Data Augmentation for Robust Audio Deepfake Detection
--  One-class learning with adaptive centroid shift for audio deepfake detection
--  Towards generalisable and calibrated audio deepfake detection with self-supervised representations
--  Singing Voice Graph Modeling for SingFake Detection
--  Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection
--  Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism
--  To what extent can ASV systems naturally defend against spoofing attacks?
--  Balance, Multiple Augmentation, and Re-synthesis: A Triad Training Strategy for Enhanced Audio Deepfake Detection
--  Speech Formants Integration for Generalized Detection of Synthetic Speech Spoofing Attacks
--  Adapter Learning from Pre-trained Model for Robust Spoof Speech Detection
--  Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection
--  Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
--  Frequency-mix Knowledge Distillation for Fake Speech Detection
--  HarmoNet: Partial DeepFake Detection Network based on Multi-scale HarmoF0 Feature Fusion
--  A New Approach to Voice Authenticity
--  Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset
--  Harder or Different? Understanding Generalization of Audio Deepfake Detection
--  RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection
--  Generalized Fake Audio Detection via Deep Stable Learning
--  CtrSVDD: A Benchmark Dataset and Baseline Analysis for Controlled Singing Voice Deepfake Detection
--  FakeSound: Deepfake General Audio Detection
+-  Anti-spoofing Ensembling Model: Dynamic Weight Allocation in Ensemble Models for Improved Voice Biometrics Security  [paper]( https://www.isca-archive.org/interspeech_2024/rosello24_interspeech.html )
+-  Spoof Diarization: ""What Spoofed When"" in Partially Spoofed Audio  [paper]( https://www.isca-archive.org/interspeech_2024/zhang24j_interspeech.html )
+-  Spoofing Speech Detection by Modeling Local Spectro-Temporal and Long-term Dependency  [paper]( https://www.isca-archive.org/interspeech_2024/wu24b_interspeech.html )
+-  Improving Copy-Synthesis Anti-Spoofing Training Method with Rhythm and Speaker Perturbation  [paper]( https://www.isca-archive.org/interspeech_2024/lu24b_interspeech.html )
+-  Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection  [paper]( https://www.isca-archive.org/interspeech_2024/truong24b_interspeech.html )
+-  Source Tracing of Audio Deepfake Systems  [paper]( https://www.isca-archive.org/interspeech_2024/klein24_interspeech.html )
+-  How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?  [paper]( https://www.isca-archive.org/interspeech_2024/liu24m_interspeech.html )
+-  Revisiting and Improving Scoring Fusion for Spoofing-aware Speaker Verification Using Compositional Data Analysis  [paper]( https://www.isca-archive.org/interspeech_2024/wang24l_interspeech.html )
+-  SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures  [paper]( https://www.isca-archive.org/interspeech_2024/baser24_interspeech.html )
+-  Interpretable Temporal Class Activation Representation for Audio Spoofing Detection  [paper]( https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.html )
+-  DGPN: A Dual Graph Prototypical Network for Few-Shot Speech Spoofing Algorithm Recognition  [paper]( https://www.isca-archive.org/interspeech_2024/ge24_interspeech.html )
+-  CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems  [paper]( https://www.isca-archive.org/interspeech_2024/wu24p_interspeech.html )
+-  Spoofed Speech Detection with a Focus on Speaker Embedding  [paper]( https://www.isca-archive.org/interspeech_2024/tran24_interspeech.html )
+-  Exploring Self-supervised Embeddings and Synthetic Data Augmentation for Robust Audio Deepfake Detection  [paper]( https://www.isca-archive.org/interspeech_2024/martindonas24_interspeech.html )
+-  One-class learning with adaptive centroid shift for audio deepfake detection  [paper]( https://www.isca-archive.org/interspeech_2024/kim24b_interspeech.html )
+-  Towards generalisable and calibrated audio deepfake detection with self-supervised representations  [paper]( https://www.isca-archive.org/interspeech_2024/pascu24_interspeech.html )
+-  Singing Voice Graph Modeling for SingFake Detection  [paper]( https://www.isca-archive.org/interspeech_2024/chen24o_interspeech.html )
+-  Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection  [paper]( https://www.isca-archive.org/interspeech_2024/wang24ga_interspeech.html )
+-  Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism  [paper]( https://www.isca-archive.org/interspeech_2024/zhong24_interspeech.html )
+-  To what extent can ASV systems naturally defend against spoofing attacks?  [paper]( https://www.isca-archive.org/interspeech_2024/jung24d_interspeech.html )
+-  Balance, Multiple Augmentation, and Re-synthesis: A Triad Training Strategy for Enhanced Audio Deepfake Detection  [paper]( https://www.isca-archive.org/interspeech_2024/doan24_interspeech.html )
+-  Speech Formants Integration for Generalized Detection of Synthetic Speech Spoofing Attacks  [paper]( https://www.isca-archive.org/interspeech_2024/liu24b_interspeech.html )
+-  Adapter Learning from Pre-trained Model for Robust Spoof Speech Detection  [paper]( https://www.isca-archive.org/interspeech_2024/wu24c_interspeech.html )
+-  Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection  [paper]( https://www.isca-archive.org/interspeech_2024/pan24c_interspeech.html )
+-  Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio  [paper]( https://www.isca-archive.org/interspeech_2024/lu24f_interspeech.html )
+-  Frequency-mix Knowledge Distillation for Fake Speech Detection  [paper]( https://www.isca-archive.org/interspeech_2024/fan24_interspeech.html )
+-  HarmoNet: Partial DeepFake Detection Network based on Multi-scale HarmoF0 Feature Fusion  [paper]( https://www.isca-archive.org/interspeech_2024/liu24g_interspeech.html )
+-  A New Approach to Voice Authenticity  [paper]( https://www.isca-archive.org/interspeech_2024/muller24_interspeech.html )
+-  Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset  [paper]( https://www.isca-archive.org/interspeech_2024/oiso24_interspeech.html )
+-  Harder or Different? Understanding Generalization of Audio Deepfake Detection  [paper]( https://www.isca-archive.org/interspeech_2024/muller24b_interspeech.html )
+-  RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection  [paper]( https://www.isca-archive.org/interspeech_2024/chen24k_interspeech.html )
+-  Generalized Fake Audio Detection via Deep Stable Learning  [paper]( https://www.isca-archive.org/interspeech_2024/wang24ca_interspeech.html )
+-  CtrSVDD: A Benchmark Dataset and Baseline Analysis for Controlled Singing Voice Deepfake Detection  [paper]( https://www.isca-archive.org/interspeech_2024/zang24_interspeech.html )
+-  FakeSound: Deepfake General Audio Detection  [paper]( https://www.isca-archive.org/interspeech_2024/xie24d_interspeech.html )
+
 
 
 
@@ -170,6 +170,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 
+## other
+-  Fixing Domain Bias for Generalized Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10219848/?arnumber=10219848 )
 
 
 # category
