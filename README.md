@@ -119,29 +119,24 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 ## ICASSP [website](https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings)
  
 ### 2024 
-- A Green Learning Approach to Spoofed Speech Detection  
-- A Robust Audio Deepfake Detection System via Multi-View Feature 
-- An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection 
-- Assessing GNSS Carrier-to-Noise-Density Ratio Estimation in The Presence of Meaconer Interference 
-- Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier 
-- Audio Transformer for Synthetic Speech Detection via Formant Magnitude and Phase Analysis
-- Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End? 
-- CPAUG: Refining Copy-Paste Augmentation for Speech Anti-Spoofing
-- Does Audio Deepfake Detection Rely on Artifacts?
-- Frame-to-Utterance Convergence: A Spectra-Temporal Approach for Unified Spoofing Detection
-- Frequency Masking for Universal Deepfake Detection
-- FSD: An Initial Chinese Dataset for Fake Song Detection
-- GMM-ResNet2: Ensemble of Group Resnet Networks for Synthetic Speech Detection
-- HM-CONFORMER: A Conformer-Based Audio Deepfake Detection System with Hierarchical Pooling and Multi-Level Classification Token Aggregation Methods
-- Improving Short Utterance Anti-Spoofing with Aasist2
-- Mdrt: Multi-Domain Synthetic Speech Localization
-- MOS-FAD: Improving Fake Audio Detection Via Automatic Mean Opinion Score Prediction
-- Multi-Scale Permutation Entropy for Audio Deepfake Detection
-- One-Class Knowledge Distillation for Spoofing Speech Detection
-- Robust Spoof Speech Detection Based on Multi-Scale Feature Aggregation and Dynamic Convolution
-- SingFake: Singing Voice Deepfake Detection
-- Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?
-- VFD-Net: Vocoder Fingerprints Detection for Fake Audio
+-  Robust Spoof Speech Detection Based on Multi-Scale Feature Aggregation and Dynamic Convolution  [paper]( https://ieeexplore.ieee.org/document/10446612/?arnumber=10446612 )
+-  Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End?  [paper]( https://ieeexplore.ieee.org/document/10446331/?arnumber=10446331 )
+-  Frame-to-Utterance Convergence: A Spectra-Temporal Approach for Unified Spoofing Detection  [paper]( https://ieeexplore.ieee.org/document/10447500/?arnumber=10447500 )
+-  CPAUG: Refining Copy-Paste Augmentation for Speech Anti-Spoofing  [paper]( https://ieeexplore.ieee.org/document/10446438/?arnumber=10446438 )
+-  One-Class Knowledge Distillation for Spoofing Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10446270/?arnumber=10446270 )
+-  An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection  [paper]( https://ieeexplore.ieee.org/document/10448196/?arnumber=10448196 )
+-  Selective Domain-Invariant Feature for Generalizable Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10447889/?arnumber=10447889 )
+-  Multi-Scale Permutation Entropy for Audio Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10448095/?arnumber=10448095 )
+-  A Green Learning Approach to Spoofed Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10448336/?arnumber=10448336 )
+-  Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?  [paper]( https://ieeexplore.ieee.org/document/10448016/?arnumber=10448016 )
+-  Improving Short Utterance Anti-Spoofing with Aasist2  [paper]( https://ieeexplore.ieee.org/document/10448049/?arnumber=10448049 )
+-  FSD: An Initial Chinese Dataset for Fake Song Detection  [paper]( https://ieeexplore.ieee.org/document/10446271/?arnumber=10446271 )
+-  A Robust Audio Deepfake Detection System via Multi-View Feature  [paper]( https://ieeexplore.ieee.org/document/10446560/?arnumber=10446560 )
+-  Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier  [paper]( https://ieeexplore.ieee.org/document/10447923/?arnumber=10447923 )
+-  Does Audio Deepfake Detection Rely on Artifacts?  [paper]( https://ieeexplore.ieee.org/document/10446558/?arnumber=10446558 )
+-  SingFake: Singing Voice Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10448184/?arnumber=10448184 )
+-  VFD-Net: Vocoder Fingerprints Detection for Fake Audio  [paper]( https://ieeexplore.ieee.org/document/10446798/?arnumber=10446798 )
+-  HM-CONFORMER: A Conformer-Based Audio Deepfake Detection System with Hierarchical Pooling and Multi-Level Classification Token Aggregation Methods  [paper]( https://ieeexplore.ieee.org/document/10448453/?arnumber=10448453 )
 
 
 
