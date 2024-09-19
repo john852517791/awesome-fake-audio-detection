@@ -171,6 +171,14 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## other
 -  Fixing Domain Bias for Generalized Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10219848/?arnumber=10219848 )
+-  Learning to Listen and Listening to Learn: Spoofed Audio Detection Through Linguistic Data Augmentation  [paper]( https://ieeexplore.ieee.org/document/10297267/ )
+-  RawSpectrogram: On the Way to Effective Streaming Speech Anti-Spoofing  [paper]( https://ieeexplore.ieee.org/document/10271307/ )
+-  Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation  [paper]( http://arxiv.org/abs/2202.12233 )
+-  Experimental Case Study of Self-Supervised Learning for Voice Spoofing Detection  [paper](  )
+-  Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures  [paper]( https://www.isca-archive.org/odyssey_2022/wang22_odyssey.html )
+-  Investigating Active-Learning-Based Training Data Selection for Speech Spoofing Countermeasure  [paper]( https://ieeexplore.ieee.org/document/10023350/ )
+-  SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection  [paper]( http://arxiv.org/abs/2407.18517 )
+-  Audio Deepfake Detection with Self-Supervised XLS-R and SLS Classifier  [paper](  )
 
 
 # category
