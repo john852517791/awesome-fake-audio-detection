@@ -159,11 +159,15 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## SPL [website](https://dblp.uni-trier.de/db/journals/spl/index.html)
 
-### 2023
-
-- End-to-End Dual-Branch Network Towards Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/document/10082951) [code](https://github.com/makaijie/End-to-End-Dual-Branch-Network-Towards-Synthetic-Speech-Detection)
-
-
+-  One-Class Learning Towards Synthetic Voice Spoofing Detection  [paper]( https://ieeexplore.ieee.org/document/9417604/ )
+-  Synthetic Speech Detection Based on Local Autoregression and Variance Statistics  [paper]( https://ieeexplore.ieee.org/document/9799523/ )
+-  The Role of Long-Term Dependency in Synthetic Speech Detection  [paper]( https://ieeexplore.ieee.org/document/9762538/ )
+-  Comparative Analysis of ASV Spoofing Countermeasures: Evaluating Res2Net-Based Approaches  [paper]( https://ieeexplore.ieee.org/document/10237263/ )
+-  Discriminative Frequency Information Learning for End-to-End Speech Anti-Spoofing  [paper]( https://ieeexplore.ieee.org/document/10057965/ )
+-  End-to-End Dual-Branch Network Towards Synthetic Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10082951/ )
+-  Towards End-to-End Synthetic Speech Detection  [paper]( http://arxiv.org/abs/2106.06341 )
+-  Synthetic Speech Detection Based on the Temporal Consistency of Speaker Features  [paper]( https://ieeexplore.ieee.org/document/10480137/ )
+-  Multi-Level Information Aggregation Based Graph Attention Networks Towards Fake Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10545550/?arnumber=10545550 )
 
 ## other
 -  Fixing Domain Bias for Generalized Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10219848/?arnumber=10219848 )
