@@ -188,6 +188,11 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Synthetic Speech Detection Based on the Temporal Consistency of Speaker Features  [paper]( https://ieeexplore.ieee.org/document/10480137/ )
 -  Multi-Level Information Aggregation Based Graph Attention Networks Towards Fake Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10545550/?arnumber=10545550 )
 
+## ACMMM
+-  Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization  [paper]( https://openreview.net/pdf?id=vKGqzxqNM9 )
+-  Audio Deepfake Detection with Self-Supervised XLS-R and SLS Classifier  [paper]( https://openreview.net/pdf?id=acJMIXJg2u )
+
+
 ## other
 -  SafeEar: Content Privacy-Preserving Audio Deepfake Detection  [paper](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf)
 -  Fixing Domain Bias for Generalized Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10219848/?arnumber=10219848 )
