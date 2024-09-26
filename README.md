@@ -157,6 +157,25 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 
+## TASLP [website](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
+-  Generalizable Speech Spoofing Detection Against Silence Trimming With Data Augmentation and Multi-Task Meta-Learning  [paper]( https://ieeexplore.ieee.org/document/10557138/?arnumber=10557138 )
+-  Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10506099/?arnumber=10506099 )
+-  Compact Time-Domain Representation for Logical Access Spoofed Audio  [paper]( https://ieeexplore.ieee.org/document/10349908/?arnumber=10349908 )
+-  The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance  [paper]( https://ieeexplore.ieee.org/document/10003971/?arnumber=10003971 )
+-  ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild  [paper]( https://ieeexplore.ieee.org/document/10155166/?arnumber=10155166 )
+-  The Impact of Silence on Speech Anti-Spoofing  [paper]( https://ieeexplore.ieee.org/document/10224301/?arnumber=10224301 )
+-  Generalized Voice Spoofing Detection via Integral Knowledge Amalgamation  [paper]( https://ieeexplore.ieee.org/document/10158777/?arnumber=10158777 )
+-  Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10103148/?arnumber=10103148 )
+-  Robustness of Speech Spoofing Detectors Against Adversarial Post-Processing of Voice Conversion  [paper]( https://ieeexplore.ieee.org/document/9599559/ )
+-  Modified Magnitude-Phase Spectrum Information for Spoofing Detection  [paper]( https://ieeexplore.ieee.org/document/9360468/ )
+-  Optimizing Tandem Speaker Verification and Anti-Spoofing Systems  [paper]( https://ieeexplore.ieee.org/document/9664367/ )
+
+## TIFS [website](https://dblp.uni-trier.de/db/journals/spl/index.html)
+-  On Joint Optimization of Automatic Speaker Verification and Anti-Spoofing in the Embedding Space  [paper]( https://ieeexplore.ieee.org/document/9262934/ )
+-  Domain Generalization via Aggregation and Separation for Audio Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10286049/ )
+-  Audio Multi-View Spoofing Detection Framework Based on Audio-Text-Emotion Correlations  [paper]( https://ieeexplore.ieee.org/document/10605761/?arnumber=10605761 )
+
+
 ## SPL [website](https://dblp.uni-trier.de/db/journals/spl/index.html)
 
 -  One-Class Learning Towards Synthetic Voice Spoofing Detection  [paper]( https://ieeexplore.ieee.org/document/9417604/ )
