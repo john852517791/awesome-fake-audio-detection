@@ -57,6 +57,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 ### 2024
+⭐[ASVSPOOF5_2024](https://www.isca-archive.org/asvspoof_2024)
 -  Anti-spoofing Ensembling Model: Dynamic Weight Allocation in Ensemble Models for Improved Voice Biometrics Security  [paper]( https://www.isca-archive.org/interspeech_2024/rosello24_interspeech.html )
 -  Spoof Diarization: ""What Spoofed When"" in Partially Spoofed Audio  [paper]( https://www.isca-archive.org/interspeech_2024/zhang24j_interspeech.html )
 -  Spoofing Speech Detection by Modeling Local Spectro-Temporal and Long-term Dependency  [paper]( https://www.isca-archive.org/interspeech_2024/wu24b_interspeech.html )
