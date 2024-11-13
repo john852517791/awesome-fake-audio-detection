@@ -53,6 +53,13 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 # recent conference papers
 
+## ICLR
+
+### 2025(may will be accepted)
+- I Can Hear You: Selective Robust Training for Deepfake Audio Detection [dataset paper](https://openreview.net/forum?id=GpUO6qYNQG)
+- SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Toward Cutting-Edge Speech Generation Methods [dataset paper](https://openreview.net/forum?id=GpUO6qYNQG)
+- Contrastive Learning from Synthetic Audio Doppelgängers [augmentation paper](https://openreview.net/forum?id=XRtyVELwr6)
+
 ## interspeech [website](https://www.isca-archive.org/index.html)
 
 
