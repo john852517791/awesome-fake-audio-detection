@@ -162,7 +162,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 
-
+## TMLR
+- Towards generalizing deep-audio-fake detection networks [paper](https://openreview.net/pdf?id=RGewtLtvHz) [code](https://github.com/gan-police/audiodeepfake-detection)
 
 
 ## TASLP [website](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
@@ -202,7 +203,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 ## SLT
-###2022
+### 2022
 -  How to Boost Anti-Spoofing with X-Vectors  [paper]( https://ieeexplore.ieee.org/document/10022504/?arnumber=10022504 )
 -  Investigating Active-Learning-Based Training Data Selection for Speech Spoofing Countermeasure  [paper]( https://ieeexplore.ieee.org/document/10023350/?arnumber=10023350 )
 -  The Clever Hans Effect in Voice Spoofing Detection  [paper]( https://ieeexplore.ieee.org/document/10022624/?arnumber=10022624 )
