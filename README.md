@@ -53,6 +53,13 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 # recent conference papers
 
+
+## CCS
+
+### Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+-  SafeEar: Content Privacy-Preserving Audio Deepfake Detection  [paper](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf)
+
+
 ## ICLR
 
 ### 2025(may will be accepted)
@@ -210,7 +217,6 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 ## other
--  SafeEar: Content Privacy-Preserving Audio Deepfake Detection  [paper](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf)
 -  Fixing Domain Bias for Generalized Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10219848/?arnumber=10219848 )
 -  Learning to Listen and Listening to Learn: Spoofed Audio Detection Through Linguistic Data Augmentation  [paper]( https://ieeexplore.ieee.org/document/10297267/ )
 -  RawSpectrogram: On the Way to Effective Streaming Speech Anti-Spoofing  [paper]( https://ieeexplore.ieee.org/document/10271307/ )
