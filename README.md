@@ -58,10 +58,13 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ### Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
 -  SafeEar: Content Privacy-Preserving Audio Deepfake Detection  [paper](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf)
--  Trident of Poseidon: A Generalized Approach for Detecting Deepfake Voices
--  "Better Be Computer or I’m Dumb": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors∗
--  Blind and Low Vision Individuals’ Detection of Audio Deepfakes
--  Towards Proactive Protection against Unauthorized Speech Synthesis
+-  Trident of Poseidon: A Generalized Approach for Detecting Deepfake Voices   [paper](https://dl.acm.org/doi/10.1145/3658644.3690311)
+-  "Better Be Computer or I’m Dumb": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors∗  [paper](https://dl.acm.org/doi/10.1145/3658644.3670325)
+-  Blind and Low Vision Individuals’ Detection of Audio Deepfakes  [paper](https://dl.acm.org/doi/10.1145/3658644.3690305)
+-  Towards Proactive Protection against Unauthorized Speech Synthesis [paper](https://dl.acm.org/doi/10.1145/3658644.3690868)
+-  
+
+
 ## ICLR
 
 ### 2025(may will be accepted)
