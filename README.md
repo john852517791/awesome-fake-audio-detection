@@ -193,7 +193,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## TASLP [website](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
 -  Generalizable Speech Spoofing Detection Against Silence Trimming With Data Augmentation and Multi-Task Meta-Learning  [paper]( https://ieeexplore.ieee.org/document/10557138/?arnumber=10557138 )
--  Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10506099/?arnumber=10506099 )
+-  Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection  [tra]( https://ieeexplore.ieee.org/document/10506099/?arnumber=10506099 )
 -  Compact Time-Domain Representation for Logical Access Spoofed Audio  [paper]( https://ieeexplore.ieee.org/document/10349908/?arnumber=10349908 )
 -  The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance  [paper]( https://ieeexplore.ieee.org/document/10003971/?arnumber=10003971 )
 -  ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild  [paper]( https://ieeexplore.ieee.org/document/10155166/?arnumber=10155166 )
