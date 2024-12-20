@@ -62,7 +62,20 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  "Better Be Computer or I’m Dumb": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors∗  [paper](https://dl.acm.org/doi/10.1145/3658644.3670325)
 -  Blind and Low Vision Individuals’ Detection of Audio Deepfakes  [paper](https://dl.acm.org/doi/10.1145/3658644.3690305)
 -  Towards Proactive Protection against Unauthorized Speech Synthesis [paper](https://dl.acm.org/doi/10.1145/3658644.3690868)
--  
+
+## AAAI
+
+### 2025
+-  Region-Based Optimization in Continual Learning for Audio Deepfake Detection [paper](https://arxiv.org/abs/2412.11551)
+
+### 2024
+-  What to remember: Self-adaptive continual learning for audio deepfake detection [paper](https://arxiv.org/abs/2412.11551)
+
+
+## ICML
+
+### 2023
+-  Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection[paper](https://proceedings.mlr.press/v202/zhang23au.html)
 
 
 ## ICLR
@@ -231,64 +244,6 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Investigating Active-Learning-Based Training Data Selection for Speech Spoofing Countermeasure  [paper]( https://ieeexplore.ieee.org/document/10023350/ )
 -  SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection  [paper]( http://arxiv.org/abs/2407.18517 )
 -  Audio Deepfake Detection with Self-Supervised XLS-R and SLS Classifier  [paper](  )
-
-
-# category
-
-## model
-
-### graph neural network	
-
-- Aasist: Audio anti-spoofing using integrated spectro-temporal graph attention networks [paper](https://arxiv.org/pdf/2110.01200.pdf) [code](https://github.com/clovaai/aasist) 
-- End-to-End Spectro-Temporal Graph Attention Networks for Speaker Verification Anti-Spoofing and Speech Deepfake Detection [paper](https://arxiv.org/pdf/2107.12710.pdf)  [code](https://github.com/eurecom-asp/RawGAT-ST-antispoofing)
-
-### CQCC feature
-
-- Constant Q Cepstral Coefficients: A Spoofing Countermeasure for Automatic Speaker Verification [paper](https://www.asvspoof.org/papers/CSL_CQCC.pdf)  [code is implemented in the asvspoof baselines]
-- Towards End-to-End Synthetic Speech Detection [paper](https://arxiv.org/pdf/2106.06341.pdf) 
-
-### sincnet&rawnet
-
-- SPEAKER RECOGNITION FROM RAW WAVEFORM WITH SINCNET [paper](https://arxiv.org/pdf/1808.00158.pdf) [code](https://github.com/mravanelli/SincNet/)
-
-  rawnet 	[1、2、3 all code](https://github.com/Jungjee/RawNet) 
-
-- RawNet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification [paper](https://arxiv.org/pdf/1904.08104.pdf) 
-
-- END-TO-END ANTI-SPOOFING WITH RAWNET2 [paper](https://arxiv.org/pdf/2011.01108.pdf) [code](https://github.com/eurecom-asp/rawnet2-antispoofing)
-
-- Pushing the limits of raw waveform speaker recognition [paper](https://arxiv.org/pdf/2203.08488.pdf)
-
-
-
-### using pretrained models
-
-- Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation [paper](https://arxiv.org/pdf/2202.12233.pdf) 
-
-
-
-## loss
-
-- One-Class Learning Towards Synthetic Voice Spoofing Detection [paper](https://arxiv.org/pdf/2010.13995.pdf) [code](https://github.com/yzyouzhang/AIR-ASVspoof)
-- 
-
-
-
-
-
-## data augmentation
-
-- Improved mixed-example data augmentation [paper](https://arxiv.org/pdf/1805.11272.pdf) [code](https://github.com/ceciliaresearch/MixedExample)
-
-- RAWBOOST: A RAW DATA BOOSTING AND AUGMENTATION METHOD APPLIED TO AUTOMATIC SPEAKER VERIFICATION ANTI-SPOOFING [paper](https://arxiv.org/pdf/2111.04433.pdf) [code](https://github.com/TakHemlata/RawBoost-antispoofing)
-
-
-
-
-
-
-
-
 
 
 
