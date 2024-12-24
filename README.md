@@ -17,14 +17,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 - [different category](#category)
 - [enlightening](#enlightening)
 
-
-
-
 # survey
 -  [Audio Anti-Spoofing Detection: A Survey](https://arxiv.org/abs/2404.13914) 
 -  [Audio Deepfake Detection: A Survey](https://arxiv.org/abs/2308.14970) 
-
-
 
 # datasets
 
@@ -41,14 +36,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 - **ASVspoof:** https://www.asvspoof.org/
 
-
-
 # tools
 
 [asvspoof2021 baseline implementation](https://github.com/asvspoof-challenge/2021.git)
-
-# whole pic (not completed yet)
-![FAD](FAD.png)
 
 
 # recent conference papers
@@ -261,3 +251,5 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 - DO PROSODY TRANSFER MODELS TRANSFER PROSODY?  [paper](https://arxiv.org/pdf/2303.04289.pdf) 
 - TWO-STREAM DECODER FEATURE NORMALITY ESTIMATING NETWORK FOR INDUSTRIAL ANOMALY DETECTION [paper](https://arxiv.org/pdf/2302.09794.pdf) 
 
+# whole pic (not completed yet)
+![FAD](FAD.png)
