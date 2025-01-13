@@ -40,6 +40,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 [asvspoof2021 baseline implementation](https://github.com/asvspoof-challenge/2021.git)
 
+# new arxiv （might be meaningful）
+-  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [paper](https://arxiv.org/abs/2501.04942)
+-  Are audio DeepFake detection models polyglots? [paper](https://arxiv.org/abs/2412.17924)
 
 # recent conference papers
 
@@ -57,6 +60,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ### 2025
 -  Region-Based Optimization in Continual Learning for Audio Deepfake Detection [paper](https://arxiv.org/abs/2412.11551)
+-  Improving Generalization for AI-Synthesized Voice Detection [paper](https://arxiv.org/abs/2412.19279)
 
 ### 2024
 -  What to remember: Self-adaptive continual learning for audio deepfake detection [paper](https://arxiv.org/abs/2412.11551)
