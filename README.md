@@ -32,7 +32,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 - **In-the-Wild:**  [website](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild)  [paper](https://arxiv.org/pdf/2203.16263.pdf)  [dataset download](https://owncloud.fraunhofer.de/index.php/s/JZgXh0JEAF0elxa)
 - **APTLY** [website](https://bil.eecs.yorku.ca/datasets/)
 
-⭐more datasets info can be found in this [rep](https://github.com/AI-ResearchGroup/A-Comprehensive-Survey-with-Critical-Analysis-for-Deepfake-Speech-Detection) and this chinese [artical](https://mp.weixin.qq.com/s/RbIBA51VQQyHO52PFIhBJg)
+⭐more datasets info can be found in this [repo](https://github.com/AI-ResearchGroup/A-Comprehensive-Survey-with-Critical-Analysis-for-Deepfake-Speech-Detection) and this chinese [blog](https://mp.weixin.qq.com/s/RbIBA51VQQyHO52PFIhBJg)
 
 
 
