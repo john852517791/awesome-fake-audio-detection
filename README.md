@@ -8,6 +8,8 @@ This repo only collect papers related to FAD.
 
 Here is nothing about speech signal processing, speech synthesis, Speech Enhancement, data augmentation, voice conversion and speech edition. But learning them is beneficial to your research about FAD.
 
+This repository will be actively maintained. If any work has not been recorded, feel free to submit an issue.
+
 ## Contents
 
 - [Datasets](#datasets)
