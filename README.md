@@ -21,7 +21,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 # survey
 -  [Audio Anti-Spoofing Detection: A Survey](https://arxiv.org/abs/2404.13914) 
--  [Audio Deepfake Detection: A Survey](https://arxiv.org/abs/2308.14970) 
+-  [Audio Deepfake Detection: A Survey](https://arxiv.org/abs/2308.14970)
+-  [A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection](https://arxiv.org/pdf/2409.15180)
 
 # datasets
 
@@ -30,6 +31,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 - **wavefake**:  [paper](https://arxiv.org/pdf/2111.02813.pdf)  [dataset download](https://zenodo.org/record/5642694#:~:text=WaveFake%3A%20A%20data%20set%20to%20facilitate%20audio%20DeepFake,finding%20new%20detection%20methods%20to%20prevent%20such%20attempts.) 
 - **In-the-Wild:**  [website](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild)  [paper](https://arxiv.org/pdf/2203.16263.pdf)  [dataset download](https://owncloud.fraunhofer.de/index.php/s/JZgXh0JEAF0elxa)
 - **APTLY** [website](https://bil.eecs.yorku.ca/datasets/)
+
+⭐more datasets info can be found in this [rep](https://github.com/AI-ResearchGroup/A-Comprehensive-Survey-with-Critical-Analysis-for-Deepfake-Speech-Detection) and this chinese [artical](https://mp.weixin.qq.com/s/RbIBA51VQQyHO52PFIhBJg)
 
 
 
