@@ -48,6 +48,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 # new arxiv （might be meaningful）
 -  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [paper](https://arxiv.org/abs/2501.04942)
 -  Are audio DeepFake detection models polyglots? [paper](https://arxiv.org/abs/2412.17924)
+-  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [paper](https://arxiv.org/abs/2501.06514)
 
 # recent conference papers
 
