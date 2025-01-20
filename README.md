@@ -46,10 +46,11 @@ This repository will be actively maintained. If any work has not been recorded, 
 [asvspoof2021 baseline implementation](https://github.com/asvspoof-challenge/2021.git)
 
 # new arxiv （might be meaningful）
--  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [paper](https://arxiv.org/abs/2501.04942)
--  Are audio DeepFake detection models polyglots? [paper](https://arxiv.org/abs/2412.17924)
--  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [paper](https://arxiv.org/abs/2501.06514)
--  CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset [paper](https://arxiv.org/abs/2501.08238)
+-  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [may be submitted 2 trans](https://arxiv.org/abs/2501.04942)
+-  Are audio DeepFake detection models polyglots? [may be submitted 2 conference](https://arxiv.org/abs/2412.17924)
+-  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [may be submitted 2 conference](https://arxiv.org/abs/2501.06514)
+-  CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset [may be submitted 2 TASLP](https://arxiv.org/abs/2501.08238)
+-  Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection [submitted 2 speech communication](https://arxiv.org/abs/2501.05545)
 
 # recent conference papers
 
