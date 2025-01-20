@@ -49,6 +49,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [paper](https://arxiv.org/abs/2501.04942)
 -  Are audio DeepFake detection models polyglots? [paper](https://arxiv.org/abs/2412.17924)
 -  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [paper](https://arxiv.org/abs/2501.06514)
+-  CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset [paper](https://arxiv.org/abs/2501.08238)
 
 # recent conference papers
 
@@ -192,6 +193,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 
 ## TASLP [website](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
+-  ASSD: An AI-Synthesized Speech Detection Scheme Using Whisper Feature and Types Classification [paper](https://ieeexplore.ieee.org/abstract/document/10842678)
 -  The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio [paper](https://ieeexplore.ieee.org/abstract/document/10830534)
 -  Generalizable Speech Spoofing Detection Against Silence Trimming With Data Augmentation and Multi-Task Meta-Learning  [paper]( https://ieeexplore.ieee.org/document/10557138/?arnumber=10557138 )
 -  Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection  [trash(this is personal)]( https://ieeexplore.ieee.org/document/10506099/?arnumber=10506099 )
