@@ -23,6 +23,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  [Audio Anti-Spoofing Detection: A Survey](https://arxiv.org/abs/2404.13914) 
 -  [Audio Deepfake Detection: A Survey](https://arxiv.org/abs/2308.14970)
 -  [A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection](https://arxiv.org/pdf/2409.15180)
+-  [A Survey on Speech Deepfake Detection](https://dl.acm.org/doi/abs/10.1145/3714458)
 
 # datasets
 
@@ -51,6 +52,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [may be submitted 2 conference](https://arxiv.org/abs/2501.06514)
 -  CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset [may be submitted 2 TASLP](https://arxiv.org/abs/2501.08238)
 -  Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection [submitted 2 speech communication](https://arxiv.org/abs/2501.05545)
+-  What Does an Audio Deepfake Detector Focus on? A Study in the Time  Domain. [paper](https://arxiv.org/abs/2501.13887?)
+-  Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation. [paper](https://arxiv.org/abs/2501.14240)
+-  6KSFx Synth Dataset. [paper](https://arxiv.org/abs/2501.17198)
 
 # recent conference papers
 
@@ -191,6 +195,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 ## TMLR
 - Towards generalizing deep-audio-fake detection networks [paper](https://openreview.net/pdf?id=RGewtLtvHz) [code](https://github.com/gan-police/audiodeepfake-detection)
+
+## speech communication
+-  One-class network leveraging spectro-temporal features for generalized synthetic speech detection [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167639325000159)
 
 
 ## TASLP [website](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
