@@ -55,6 +55,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  What Does an Audio Deepfake Detector Focus on? A Study in the Time  Domain. [paper](https://arxiv.org/abs/2501.13887?)
 -  Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation. [paper](https://arxiv.org/abs/2501.14240)
 -  6KSFx Synth Dataset. [paper](https://arxiv.org/abs/2501.17198)
+-  Deepfake Detection of Singing Voices With Whisper Encodings. [paper](https://arxiv.org/abs/2501.18919)
+-  . [paper]()
 
 # recent conference papers
 
