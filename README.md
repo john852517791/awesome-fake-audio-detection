@@ -56,6 +56,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation. [paper](https://arxiv.org/abs/2501.14240)
 -  6KSFx Synth Dataset. [paper](https://arxiv.org/abs/2501.17198)
 -  Deepfake Detection of Singing Voices With Whisper Encodings. [paper](https://arxiv.org/abs/2501.18919)
+-  Towards Explainable Spoofed Speech Attribution and Detection:a Probabilistic Approach for Characterizing Speech Synthesizer Components. [interpretable](https://arxiv.org/abs/2502.04049)
+-  Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection. [interpretable, but nothing new 4 FAD](https://arxiv.org/abs/2502.03559)
 -  . [paper]()
 
 # recent conference papers
@@ -89,9 +91,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 ## ICLR
 
 ### 2025(may will be accepted)
-- I Can Hear You: Selective Robust Training for Deepfake Audio Detection [reject,pity](https://openreview.net/forum?id=GpUO6qYNQG)
+- I Can Hear You: Selective Robust Training for Deepfake Audio Detection [Accept! congratulations](https://openreview.net/forum?id=2GcR9bO620)
 - SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Toward Cutting-Edge Speech Generation Methods [reject,pity](https://openreview.net/forum?id=GpUO6qYNQG)
-- Contrastive Learning from Synthetic Audio Doppelgängers [augmentation paper](https://openreview.net/forum?id=XRtyVELwr6)
+- Contrastive Learning from Synthetic Audio Doppelgängers [augmentation paper, Accept](https://openreview.net/forum?id=XRtyVELwr6)
 
 ## interspeech [website](https://www.isca-archive.org/index.html)
 
