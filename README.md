@@ -195,6 +195,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 
 
+## jestech
+-  Enhancing voice spoofing detection in noisy environments using frequency feature masking augmentation. [paper](https://www.sciencedirect.com/science/article/pii/S2215098625000278)
 
 
 ## TMLR
