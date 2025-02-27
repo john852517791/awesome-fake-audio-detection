@@ -60,6 +60,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection. [interpretable, but nothing new 4 FAD](https://arxiv.org/abs/2502.03559)
 -  Less is More for Synthetic Speech Detection in the Wild. [paper](https://arxiv.org/abs/2502.05674)
 -  Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis. [paper](https://arxiv.org/abs/2502.14726)
+-  Generalizable speech deepfake detection via meta-learned LoRA. [paper](https://arxiv.org/abs/2502.10838)
 -  . [paper]()
 
 
