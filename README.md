@@ -67,6 +67,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 # recent conference papers
 
+## NDSS
+-  VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis. [paper](https://www.ndss-symposium.org/wp-content/uploads/2025-3389-paper.pdf)
+
 
 ## CCS
 
