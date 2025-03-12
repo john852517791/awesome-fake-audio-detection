@@ -180,7 +180,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 - Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10889357)
 - Integrating Spectro-Temporal Cross Aggregation and Multi-Scale Dynamic Learning for Audio Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10889337)
 - Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0  [paper](https://ieeexplore.ieee.org/document/10888990)
-- "Easy  [paper]( Interpretable  [paper]( Effective: openSMILE for voice deepfake detection"  [paper](https://ieeexplore.ieee.org/document/10890543)
+- Easy, Interpretable, Effective: openSMILE for voice deepfake detection  [paper](https://ieeexplore.ieee.org/document/10890543)
 - Robust Audio Deepfake Detection using Ensemble Confidence Calibration  [paper](https://ieeexplore.ieee.org/document/10889972)
 - Generalize Audio Deepfake Algorithm Recognition via Attribution Enhancement  [paper](https://ieeexplore.ieee.org/document/10889399)
 - From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background  [paper](https://ieeexplore.ieee.org/document/10890293)
