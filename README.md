@@ -170,31 +170,31 @@ This repository will be actively maintained. If any work has not been recorded, 
 ## ICASSP [website](https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings)
 
 ### 2025 
--  LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation
--  What Affects the Performance of Fake Audio Detection? Analyzing Factors in a Continual Learning Setting
--  Audio-Visual Deepfake Detection With Local Temporal Inconsistencies
--  Adversarial Training and Gradient Optimization for Partially Deepfake Audio Localization
--  Leveraging Mixture of Experts for Improved Speech Deepfake Detection
--  Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection
--  Integrating Spectro-Temporal Cross Aggregation and Multi-Scale Dynamic Learning for Audio Deepfake Detection
--  Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0
--  WaveSpect: A Hybrid Approach to Synthetic Audio Detection via Waveform and Spectrogram Analysis
--  Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection
--  FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning
--  Easy, Interpretable, Effective: openSMILE for voice deepfake detection
--  Robust Audio Deepfake Detection using Ensemble Confidence Calibration
--  PET: High-Frequency Temporal Self-Consistency Learning for Partially Deepfake Audio Localization
--  Generalize Audio Deepfake Algorithm Recognition via Attribution Enhancement
--  Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection
--  Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation
--  From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background
--  SpecViT: A Custom Vision-Transformer based Approach for Audio Deepfake Detection
--  Deepfake Detection of Singing Voices With Whisper Encodings
--  GNCL: A Graph Neural Network with Consistency Loss for Segment-Level Spoofed Speech Detection
--  Continual Unsupervised Domain Adaptation for Audio Deepfake Detection
--  Audio Features Investigation for Singing Voice Deepfake Detection
--  Investigating voiced and unvoiced regions of speech for audio deepfake detection
--  What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain
+- Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10888175)
+- WaveSpect: A Hybrid Approach to Synthetic Audio Detection via Waveform and Spectrogram Analysis  [paper](https://ieeexplore.ieee.org/document/10890188)
+- FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning  [paper](https://ieeexplore.ieee.org/document/10888053)
+- LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation  [paper](https://ieeexplore.ieee.org/document/10888070)
+- What Affects the Performance of Fake Audio Detection? Analyzing Factors in a Continual Learning Setting  [paper](https://ieeexplore.ieee.org/document/10888114)
+- Adversarial Training and Gradient Optimization for Partially Deepfake Audio Localization  [paper](https://ieeexplore.ieee.org/document/10890470)
+- Leveraging Mixture of Experts for Improved Speech Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10890398)
+- Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10889357)
+- Integrating Spectro-Temporal Cross Aggregation and Multi-Scale Dynamic Learning for Audio Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10889337)
+- Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0  [paper](https://ieeexplore.ieee.org/document/10888990)
+- "Easy  [paper]( Interpretable  [paper]( Effective: openSMILE for voice deepfake detection"  [paper](https://ieeexplore.ieee.org/document/10890543)
+- Robust Audio Deepfake Detection using Ensemble Confidence Calibration  [paper](https://ieeexplore.ieee.org/document/10889972)
+- Generalize Audio Deepfake Algorithm Recognition via Attribution Enhancement  [paper](https://ieeexplore.ieee.org/document/10889399)
+- From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background  [paper](https://ieeexplore.ieee.org/document/10890293)
+- Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10890563)
+- Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation  [paper](https://ieeexplore.ieee.org/document/10888328)
+- SpecViT: A Custom Vision-Transformer based Approach for Audio Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10889022)
+- Deepfake Detection of Singing Voices With Whisper Encodings  [paper](https://ieeexplore.ieee.org/document/10887871)
+- Continual Unsupervised Domain Adaptation for Audio Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10890538)
+- Audio Features Investigation for Singing Voice Deepfake Detection  [paper](https://ieeexplore.ieee.org/document/10888452)
+- Investigating voiced and unvoiced regions of speech for audio deepfake detection  [paper](https://ieeexplore.ieee.org/document/10890861)
+- What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain  [paper](https://ieeexplore.ieee.org/document/10887568)
+- PET: High-Frequency Temporal Self-Consistency Learning for Partially Deepfake Audio Localization  [paper](https://ieeexplore.ieee.org/document/10889913)
+- GNCL: A Graph Neural Network with Consistency Loss for Segment-Level Spoofed Speech Detection  [paper](https://ieeexplore.ieee.org/document/10888281)
+
 
 
  
