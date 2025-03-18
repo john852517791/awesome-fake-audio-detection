@@ -62,8 +62,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis. [paper](https://arxiv.org/abs/2502.14726)
 -  Generalizable speech deepfake detection via meta-learned LoRA. [paper](https://arxiv.org/abs/2502.10838)
 -  DeePen: Penetration Testing for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2502.20427)
+-  Adaptive Mixture of Experts Learning for Robust Audio Spoofing Detection. [paper](https://arxiv.org/abs/2503.12010)
 -  . [paper]()
-
+ 
 
 # recent conference papers
 
