@@ -65,7 +65,6 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Adaptive Mixture of Experts Learning for Robust Audio Spoofing Detection. [paper](https://arxiv.org/abs/2503.12010)
 -  . [paper]()
  
-
 # recent conference papers
 
 ## NDSS
@@ -239,6 +238,12 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 ## TMLR
 - Towards generalizing deep-audio-fake detection networks [paper](https://openreview.net/pdf?id=RGewtLtvHz) [code](https://github.com/gan-police/audiodeepfake-detection)
+
+
+## information fusion
+-  Hierarchical multi-source cues fusion for mono-to-binaural based Audio Deepfake Detection. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525001708)
+
+
 
 ## speech communication
 -  One-class network leveraging spectro-temporal features for generalized synthetic speech detection [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167639325000159)
