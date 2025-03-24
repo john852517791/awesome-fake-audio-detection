@@ -99,10 +99,11 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 ## ICLR
 
-### 2025(may will be accepted)
+### 2025
 - I Can Hear You: Selective Robust Training for Deepfake Audio Detection [Accept! congratulations](https://openreview.net/forum?id=2GcR9bO620)
 - SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Toward Cutting-Edge Speech Generation Methods [reject,pity](https://openreview.net/forum?id=GpUO6qYNQG)
 - Contrastive Learning from Synthetic Audio Doppelgängers [augmentation paper, Accept](https://openreview.net/forum?id=XRtyVELwr6)
+- SONICS: Synthetic Or Not - Identifying Counterfeit Songs. [paper](https://openreview.net/forum?id=PY7KSh29Z8)
 
 ## interspeech [website](https://www.isca-archive.org/index.html)
 
