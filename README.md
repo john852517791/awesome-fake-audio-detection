@@ -63,6 +63,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Generalizable speech deepfake detection via meta-learned LoRA. [paper](https://arxiv.org/abs/2502.10838)
 -  DeePen: Penetration Testing for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2502.20427)
 -  Adaptive Mixture of Experts Learning for Robust Audio Spoofing Detection. [paper](https://arxiv.org/abs/2503.12010)
+-  Emergent Capability in Audio Deepfake Detection. [paper](https://www.researchgate.net/profile/Yunbin-Deng/publication/389939872_Emergent_Capability_in_Audio_Deepfake_Detection/links/67d9720b35f7044c9232bce2/Emergent-Capability-in-Audio-Deepfake-Detection.pdf)
 -  . [paper]()
  
 # recent conference papers
