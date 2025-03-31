@@ -66,6 +66,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Emergent Capability in Audio Deepfake Detection. [paper](https://www.researchgate.net/profile/Yunbin-Deng/publication/389939872_Emergent_Capability_in_Audio_Deepfake_Detection/links/67d9720b35f7044c9232bce2/Emergent-Capability-in-Audio-Deepfake-Detection.pdf)
 -  Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching. [paper](https://arxiv.org/abs/2503.18032)
 -  Measuring the Robustness of Audio Deepfake Detectors. [paper](https://arxiv.org/abs/2503.17577)
+-  Cross-Technology Generalization in Synthesized Speech Detection:  Evaluating AST Models with Modern Voice Generators. [paper](https://arxiv.org/abs/2503.22503)
 -  . [paper]()
  
 # recent conference papers
