@@ -67,8 +67,11 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching. [paper](https://arxiv.org/abs/2503.18032)
 -  Measuring the Robustness of Audio Deepfake Detectors. [paper](https://arxiv.org/abs/2503.17577)
 -  Cross-Technology Generalization in Synthesized Speech Detection:  Evaluating AST Models with Modern Voice Generators. [paper](https://arxiv.org/abs/2503.22503)
+-  The Interpretable and Transferable Adversarial Attack Against Synthetic Speech Detectors. [paper](https://dl.acm.org/doi/abs/10.1145/3727341)
 -  . [paper]()
  
+
+
 # recent conference papers
 
 ## NDSS
