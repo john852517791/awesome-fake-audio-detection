@@ -69,7 +69,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Cross-Technology Generalization in Synthesized Speech Detection:  Evaluating AST Models with Modern Voice Generators. [paper](https://arxiv.org/abs/2503.22503)
 -  The Interpretable and Transferable Adversarial Attack Against Synthetic Speech Detectors. [paper](https://dl.acm.org/doi/abs/10.1145/3727341)
 -  Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing. [paper]( https://arxiv.org/abs/2504.05657) [⭐code!!!](https://github.com/Liu-Tianchi/Nes2Net)
--  Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception. [paper]() [⭐code!!!](https://github.com/xieyuankun/All-Type-ADD)
+-  Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception. [paper](https://arxiv.org/abs/2504.06753) [⭐code soon!!!]()
 -  . [paper]()
 
 
