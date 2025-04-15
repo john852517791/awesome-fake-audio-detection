@@ -93,6 +93,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 ### 2025
 -  Region-Based Optimization in Continual Learning for Audio Deepfake Detection [paper](https://arxiv.org/abs/2412.11551)
 -  Improving Generalization for AI-Synthesized Voice Detection [paper](https://arxiv.org/abs/2412.19279)
+-  Multi-View Collaborative Learning Network for Speech Deepfake Detection. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32094)
+-  Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32093)
+
 
 ### 2024
 -  What to remember: Self-adaptive continual learning for audio deepfake detection [paper](https://arxiv.org/abs/2412.11551)
