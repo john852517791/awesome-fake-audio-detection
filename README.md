@@ -73,10 +73,16 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  . [paper]()
 
 
+
 # recent conference papers
 
 ## NDSS
 -  VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis. [paper](https://www.ndss-symposium.org/wp-content/uploads/2025-3389-paper.pdf)
+
+
+## USENIX Security
+-  SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis. [paper](https://arxiv.org/abs/2504.09839) [code](https://github.com/wxzyd123/SafeSpeech)
+
 
 
 ## CCS
@@ -242,7 +248,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 - Leveraging Positional-Related Local-Global Dependency for Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/document/10096278)
 - Reliability Estimation for Synthetic Speech Detection [paper](https://ieeexplore.ieee.org/abstract/document/10095524)
 
-
+## ICME 
+- Generalized Audio Deepfake Detection Using Frame-level Latent  Information Entropy [paper](https://arxiv.org/abs/2504.10819)
 
 ## jestech
 -  Enhancing voice spoofing detection in noisy environments using frequency feature masking augmentation. [paper](https://www.sciencedirect.com/science/article/pii/S2215098625000278)
