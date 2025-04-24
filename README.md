@@ -262,6 +262,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 ## information fusion
 -  Hierarchical multi-source cues fusion for mono-to-binaural based Audio Deepfake Detection. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525001708)
 
+## Computer Speech & Language
+-  Leveraging distance information for generalized spoofing speech detection. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230825000294)
+
 
 
 ## speech communication
