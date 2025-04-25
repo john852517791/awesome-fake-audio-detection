@@ -46,6 +46,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 
 [asvspoof2021 baseline implementation](https://github.com/asvspoof-challenge/2021.git)
 
+[torch_lightning framework for fad](https://github.com/john852517791/pytorch_lightning_FAD)
+
 # new arxiv （might be meaningful）
 -  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [may be submitted 2 trans](https://arxiv.org/abs/2501.04942)
 -  Are audio DeepFake detection models polyglots? [may be submitted 2 conference](https://arxiv.org/abs/2412.17924)
