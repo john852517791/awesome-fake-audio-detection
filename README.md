@@ -101,7 +101,7 @@ This repository will be actively maintained. If any work has not been recorded, 
 ## IJCAI
 
 ### 2025
-- Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network. (paper)[https://arxiv.org/abs/2505.01880] (code)[https://github.com/ItzJuny/LOCO]
+- Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network. [paper](https://arxiv.org/abs/2505.01880) [code](https://github.com/ItzJuny/LOCO)
 
 ## AAAI
 
