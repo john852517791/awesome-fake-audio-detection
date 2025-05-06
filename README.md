@@ -97,6 +97,12 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Blind and Low Vision Individuals’ Detection of Audio Deepfakes  [paper](https://dl.acm.org/doi/10.1145/3658644.3690305)
 -  Towards Proactive Protection against Unauthorized Speech Synthesis [paper](https://dl.acm.org/doi/10.1145/3658644.3690868)
 
+
+## IJCAI
+
+### 2025
+- Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network. (paper)[https://arxiv.org/abs/2505.01880] (code)[https://github.com/ItzJuny/LOCO]
+
 ## AAAI
 
 ### 2025
