@@ -51,7 +51,6 @@ This repository will be actively maintained. If any work has not been recorded, 
 # new arxiv （might be meaningful）
 -  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [may be submitted 2 trans](https://arxiv.org/abs/2501.04942)
 -  Are audio DeepFake detection models polyglots? [may be submitted 2 conference](https://arxiv.org/abs/2412.17924)
--  Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy [Interspeech 2025](https://arxiv.org/abs/2505.12994)
 -  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [may be submitted 2 conference](https://arxiv.org/abs/2501.06514)
 -  CodecFake+: A Large-Scale Neural Audio Codec-based Deepfake Speech Dataset [may be submitted 2 TASLP](https://arxiv.org/abs/2501.08238)
 -  Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection [submitted 2 speech communication](https://arxiv.org/abs/2501.05545)
@@ -76,7 +75,17 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation. [paper](https://arxiv.org/pdf/2504.20923)
 -  Detecting Musical Deepfakes. [paper](https://arxiv.org/abs/2505.09633)
 -  LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2505.11079)
+-  What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection. [paper](https://arxiv.org/abs/2505.17513)
+-  Replay Attacks Against Audio Deepfake Detection. [interspeech25](http://arxiv.org/pdf/2505.14862v1)
+-  Source Verification for Speech Deepfakes. [interspeech25](http://arxiv.org/pdf/2505.14188v1)
+-  BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention. [interspeech25](http://arxiv.org/pdf/2505.13930v1)
+-  Forensic deepfake audio detection using segmental speech features. [paper](http://arxiv.org/pdf/2505.13847v1)
+-  Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing. [interspeech25](http://arxiv.org/pdf/2505.14601v1)
+-  Naturalness-Aware Curriculum Learning with Dynamic Temperature for Speech Deepfake Detection. [interspeech25](http://arxiv.org/pdf/2505.13976v1)
+-  Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy [Interspeech 2025](https://arxiv.org/abs/2505.12994)
+-  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1)
 -  . [paper]()
+
 
 
 
