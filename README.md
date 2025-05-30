@@ -85,7 +85,6 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy [Interspeech 2025](https://arxiv.org/abs/2505.12994)
 -  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1)
 -  Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models. [ACM TIT](https://dl.acm.org/doi/abs/10.1145/3736765)
--  What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection. [paper](https://arxiv.org/abs/2505.17513)
 -  . [paper]()
 
 
