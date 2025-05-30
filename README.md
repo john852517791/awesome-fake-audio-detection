@@ -84,6 +84,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Naturalness-Aware Curriculum Learning with Dynamic Temperature for Speech Deepfake Detection. [interspeech25](http://arxiv.org/pdf/2505.13976v1)
 -  Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy [Interspeech 2025](https://arxiv.org/abs/2505.12994)
 -  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1)
+-  Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models. [ACM TIT](https://dl.acm.org/doi/abs/10.1145/3736765)
+-  What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection. [paper](https://arxiv.org/abs/2505.17513)
 -  . [paper]()
 
 
@@ -286,6 +288,9 @@ This repository will be actively maintained. If any work has not been recorded, 
 ## Computer Speech & Language
 -  Leveraging distance information for generalized spoofing speech detection. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230825000294)
 
+
+## Knowledge-Based Systems
+-  Deepfake audio detection with spectral features and ResNeXt-based architecture. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007725)
 
 
 ## speech communication
