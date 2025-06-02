@@ -86,7 +86,10 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1)
 -  Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models. [ACM TIT](https://dl.acm.org/doi/abs/10.1145/3736765)
 -  Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes. [paper](https://arxiv.org/abs/2505.23619)
+-  Can Emotion Fool Anti-spoofing? [paper](https://arxiv.org/abs/2505.23962) 
+-  Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection[paper](https://arxiv.org/abs/2505.24486) 
 -  . [paper]() 
+
 
 
 # recent conference papers
