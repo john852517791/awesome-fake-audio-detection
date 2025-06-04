@@ -88,10 +88,10 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes. [paper](https://arxiv.org/abs/2505.23619)
 -  Can Emotion Fool Anti-spoofing? [paper](https://arxiv.org/abs/2505.23962) 
 -  Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection[paper](https://arxiv.org/abs/2505.24486) 
--  . [paper]() 
-
-
-
+-  RPRA-ADD: Forgery Trace Enhancement-Driven Audio Deepfake Detection
+[paper](https://arxiv.org/abs/2506.00375)
+-  XMAD-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark. [paper](https://arxiv.org/abs/2506.00462)
+-  . [paper]()
 # recent conference papers
 
 ## NDSS
