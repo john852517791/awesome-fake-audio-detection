@@ -92,6 +92,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  XMAD-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark. [paper](https://arxiv.org/abs/2506.00462)
 -  Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion. [paper](https://arxiv.org/abs/2506.02085)
 -  Trusted Fake Audio Detection Based on Dirichlet Distribution. [paper](https://arxiv.org/abs/2506.02401)
+-  A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations. [paper](https://arxiv.org/abs/2506.03425)
+-  Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models. [paper](https://arxiv.org/abs/2506.03364)
 -  . [paper]()
 
 # recent conference papers
