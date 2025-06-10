@@ -94,7 +94,17 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Trusted Fake Audio Detection Based on Dirichlet Distribution. [paper](https://arxiv.org/abs/2506.02401)
 -  A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations. [paper](https://arxiv.org/abs/2506.03425)
 -  Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models. [paper](https://arxiv.org/abs/2506.03364)
+-  Bayesian Learning for Domain-Invariant Speaker Verification and  Anti-Spoofing. [paper](https://arxiv.org/abs/2506.0753622)
+-  Can Quantized Audio Language Models Perform Zero-Shot Spoofing  Detection? [paper](https://arxiv.org/abs/2506.0675612)
+-  Towards Generalized Source Tracing for Codec-Based Deepfake Speech. [paper](https://arxiv.org/abs/2506.072947)
+-  Lightweight Joint Audio-Visual Deepfake Detection via Single-Stream  Multi-Modal Learning Framework. [paper](https://arxiv.org/abs/2506.07358)
+-  TADA: Training-free Attribution and Out-of-Domain Detection of Audio  Deepfakes. [paper](https://arxiv.org/abs/2506.05802)
 -  . [paper]()
+
+
+
+
+
 
 # recent conference papers
 
