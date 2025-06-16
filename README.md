@@ -8,7 +8,7 @@ This repo only collect papers related to FAD.
 
 Here is nothing about speech signal processing, speech synthesis, Speech Enhancement, data augmentation, voice conversion and speech edition. But learning them is beneficial to your research about FAD.
 
-This repository will be actively maintained. If any work has not been recorded, feel free to submit an issue.
+**🌟🌟🌟This repository will be actively maintained. If any work has not been recorded, feel free to submit an issue.🌟🌟🌟**
 
 ## Contents
 
@@ -99,6 +99,8 @@ This repository will be actively maintained. If any work has not been recorded, 
 -  Towards Generalized Source Tracing for Codec-Based Deepfake Speech. [paper](https://arxiv.org/abs/2506.072947)
 -  Lightweight Joint Audio-Visual Deepfake Detection via Single-Stream  Multi-Modal Learning Framework. [paper](https://arxiv.org/abs/2506.07358)
 -  TADA: Training-free Attribution and Out-of-Domain Detection of Audio  Deepfakes. [paper](https://arxiv.org/abs/2506.05802)
+-  Sharpness to Better Generalization for Speech Deepfake Detection. [paper](https://arxiv.org/abs/2506.11532)
+-  Amplifying Artifacts with Speech Enhancement in Voice Anti-spoofing. [paper](https://arxiv.org/abs/2506.11542)
 -  . [paper]()
 
 
