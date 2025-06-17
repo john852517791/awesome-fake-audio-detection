@@ -101,6 +101,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  TADA: Training-free Attribution and Out-of-Domain Detection of Audio  Deepfakes. [paper](https://arxiv.org/abs/2506.05802)
 -  Sharpness to Better Generalization for Speech Deepfake Detection. [paper](https://arxiv.org/abs/2506.11532)
 -  Amplifying Artifacts with Speech Enhancement in Voice Anti-spoofing. [paper](https://arxiv.org/abs/2506.11542)
+-  Towards Neural Audio Codec Source Parsing. [paper](https://arxiv.org/abs/2506.12627)
 -  . [paper]()
 
 
