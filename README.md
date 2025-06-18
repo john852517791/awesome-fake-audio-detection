@@ -24,6 +24,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  [Audio Deepfake Detection: A Survey](https://arxiv.org/abs/2308.14970)
 -  [A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection](https://arxiv.org/pdf/2409.15180)
 -  [A Survey on Speech Deepfake Detection](https://dl.acm.org/doi/abs/10.1145/3714458)
+-  [Manipulated Regions Localization For Partially Deepfake Audio: A Survey](https://arxiv.org/abs/2506.14396)
+
 
 # datasets
 
@@ -103,6 +105,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Sharpness to Better Generalization for Speech Deepfake Detection. [paper](https://arxiv.org/abs/2506.11532)
 -  Amplifying Artifacts with Speech Enhancement in Voice Anti-spoofing. [paper](https://arxiv.org/abs/2506.11542)
 -  Towards Neural Audio Codec Source Parsing. [paper](https://arxiv.org/abs/2506.12627)
+-  Pushing the Performance of Synthetic Speech Detection with  Kolmogorov-Arnold Networks and Self-Supervised Learning Models. [paper](https://arxiv.org/abs/2506.14153)
+-  A Comparative Study on Proactive and Passive Detection of Deepfake  Speech. [paper](https://arxiv.org/abs/2506.14398)
 -  . [paper]()
 
 
