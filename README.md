@@ -107,9 +107,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Towards Neural Audio Codec Source Parsing. [paper](https://arxiv.org/abs/2506.12627)
 -  Pushing the Performance of Synthetic Speech Detection with  Kolmogorov-Arnold Networks and Self-Supervised Learning Models. [paper](https://arxiv.org/abs/2506.14153)
 -  A Comparative Study on Proactive and Passive Detection of Deepfake  Speech. [paper](https://arxiv.org/abs/2506.14398)
--  . [paper]()
-
-
+-  IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2506.19014)
+-  . [paper]() 
 
 
 
