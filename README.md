@@ -26,6 +26,10 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  [A Survey on Speech Deepfake Detection](https://dl.acm.org/doi/abs/10.1145/3714458)
 -  [Manipulated Regions Localization For Partially Deepfake Audio: A Survey](https://arxiv.org/abs/2506.14396)
 
+# benchmark
+- LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models [multi-modal benchmark including speech](https://github.com/opendatalab/LOKI)
+
+
 
 # datasets
 
