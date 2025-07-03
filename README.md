@@ -62,7 +62,6 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  CodecFake+: A Large-Scale Neural Audio Codec-based Deepfake Speech Dataset [may be submitted 2 TASLP](https://arxiv.org/abs/2501.08238)
 -  Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection [submitted 2 speech communication](https://arxiv.org/abs/2501.05545)
 -  What Does an Audio Deepfake Detector Focus on? A Study in the Time  Domain. [paper](https://arxiv.org/abs/2501.13887?)
--  Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation. [paper](https://arxiv.org/abs/2501.14240)
 -  6KSFx Synth Dataset. [paper](https://arxiv.org/abs/2501.17198)
 -  Deepfake Detection of Singing Voices With Whisper Encodings. [paper](https://arxiv.org/abs/2501.18919)
 -  Towards Explainable Spoofed Speech Attribution and Detection:a Probabilistic Approach for Characterizing Speech Synthesizer Components. [interpretable](https://arxiv.org/abs/2502.04049)
@@ -113,6 +112,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  A Comparative Study on Proactive and Passive Detection of Deepfake  Speech. [paper](https://arxiv.org/abs/2506.14398)
 -  IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2506.19014)
 -  Post-training for Deepfake Speech Detection. [paper](https://arxiv.org/abs/2506.21090) 
+-  Generalizable Detection of Audio Deepfakes. [paper](https://arxiv.org/abs/2507.01750) 
+-  . [paper]() 
 
 
 
