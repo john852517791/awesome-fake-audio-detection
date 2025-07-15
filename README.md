@@ -113,8 +113,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  IndieFake Dataset: A Benchmark Dataset for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2506.19014)
 -  Post-training for Deepfake Speech Detection. [paper](https://arxiv.org/abs/2506.21090) 
 -  Generalizable Detection of Audio Deepfakes. [paper](https://arxiv.org/abs/2507.01750) 
+-  Phoneme-Level Analysis for Person-of-Interest Speech Deepfake Detection [paper](https://arxiv.org/abs/2507.08626) 
+- RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing. [paper](https://arxiv.org/abs/2507.08227)
 -  . [paper]() 
-
 
 
 # recent conference papers
