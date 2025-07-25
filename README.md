@@ -320,6 +320,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 ## Knowledge-Based Systems
 -  Deepfake audio detection with spectral features and ResNeXt-based architecture. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007725)
 
+## Neurocomputing
+-  BFC-Net: Boundary-Frame cross graph attention network for partially spoofed audio localization. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015395)
+
 
 ## speech communication
 -  One-class network leveraging spectro-temporal features for generalized synthetic speech detection [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167639325000159)
