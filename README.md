@@ -365,6 +365,16 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Compressed Domain Invariant Adversarial Representation Learning for Robust Audio Deepfake Detection. [paper](https://ieeexplore.ieee.org/document/10909489)
 
 ## ACMMM
+### 2025
+-   4654 WhiADD: Semantic-Acoustic Fusion for Robust Audio Deepfake Detection [paper]()
+-   386 ALDEN: Dual-Level Disentanglement with Meta-learning for Generalizable Audio Deepfake Detection [paper]()
+-   4652 Generalizable Audio Deepfake Detection via Style Alignment and Structural Empirical Risk Minimization [paper]()
+-   6390 ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection [paper]()
+-   4903 Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes [paper]()
+-   7335 Multi-level SSL Feature Gating for Audio Deepfake Detection [paper]()
+
+
+### past
 -  Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization  [paper]( https://openreview.net/pdf?id=vKGqzxqNM9 )
 -  Audio Deepfake Detection with Self-Supervised XLS-R and SLS Classifier  [paper]( https://openreview.net/pdf?id=acJMIXJg2u )
 
