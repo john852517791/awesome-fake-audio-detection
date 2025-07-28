@@ -379,6 +379,13 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Audio Deepfake Detection with Self-Supervised XLS-R and SLS Classifier  [paper]( https://openreview.net/pdf?id=acJMIXJg2u )
 
 
+## ACL
+- IndicSynth: A Large-Scale Multilingual Synthetic Speech Dataset for Low-Resource Indian Languages [paper](https://aclanthology.org/2025.acl-long.1070/)
+- SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods [paper](https://aclanthology.org/2025.acl-long.493/)
+- Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution [paper](https://aclanthology.org/2025.findings-acl.218/)
+
+
+
 ## SLT
 ### 2022
 -  How to Boost Anti-Spoofing with X-Vectors  [paper]( https://ieeexplore.ieee.org/document/10022504/?arnumber=10022504 )
