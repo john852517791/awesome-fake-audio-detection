@@ -116,7 +116,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Phoneme-Level Analysis for Person-of-Interest Speech Deepfake Detection [paper](https://arxiv.org/abs/2507.08626) 
 - RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing. [paper](https://arxiv.org/abs/2507.08227)
 -  Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection. [paper](http://arxiv.org/pdf/2507.11777v1) 
--  . [paper]() 
+-  Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors. [paper](https://link.springer.com/article/10.1186/s42400-024-00346-1)
+-  . [paper]()
+
 
 
 # recent conference papers
