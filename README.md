@@ -117,8 +117,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 - RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing. [paper](https://arxiv.org/abs/2507.08227)
 -  Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection. [paper](http://arxiv.org/pdf/2507.11777v1) 
 -  Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors. [paper](https://link.springer.com/article/10.1186/s42400-024-00346-1)
+-  ESDD 2026: Environmental Sound Deepfake Detection Challenge Evaluation Plan. [paper](https://arxiv.org/abs/2508.04529)
+-  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
 -  . [paper]()
-
 
 
 # recent conference papers
