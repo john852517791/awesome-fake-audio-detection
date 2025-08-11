@@ -119,6 +119,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors. [paper](https://link.springer.com/article/10.1186/s42400-024-00346-1)
 -  ESDD 2026: Environmental Sound Deepfake Detection Challenge Evaluation Plan. [paper](https://arxiv.org/abs/2508.04529)
 -  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
+-  Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework. [paper](https://arxiv.org/abs/2508.02521)
+-  Generalizable Audio Deepfake Detection via Hierarchical Structure Learning and Feature Whitening in Poincaré sphere. [paper](https://arxiv.org/abs/2508.01897)
 -  . [paper]()
 
 
