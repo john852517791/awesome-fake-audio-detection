@@ -124,6 +124,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative. [IEEE ASRU](https://arxiv.org/abs/2508.09294)
 -  Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization. [paper](https://arxiv.org/abs/2508.08141)
 -  SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias Analysis. [paper](https://arxiv.org/abs/2508.07944)
+-  Perturbed Public Voices: A Dataset for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2508.10949)
 -  . [paper]()
 
 
