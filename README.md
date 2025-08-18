@@ -183,6 +183,44 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## interspeech [website](https://www.isca-archive.org/index.html)
 
+### 2025
+
+- EnvSDD: Benchmarking Environmental Sound Deepfake Detection. [paper](https://www.isca-archive.org/interspeech_2025/yin25_interspeech.html)
+- Audio Deepfake Source Tracing using Multi-Attribute Open-Set Identification and Verification. [paper](https://www.isca-archive.org/interspeech_2025/falez25_interspeech.html)
+- Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion. [paper](https://www.isca-archive.org/interspeech_2025/kulkarni25_interspeech.html)
+- Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy. [paper](https://www.isca-archive.org/interspeech_2025/chen25j_interspeech.html)
+- TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes. [paper](https://www.isca-archive.org/interspeech_2025/stan25_interspeech.html)
+- Source Verification for Speech Deepfakes. [paper](https://www.isca-archive.org/interspeech_2025/negroni25_interspeech.html)
+- STOPA: A Dataset of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution. [paper](https://www.isca-archive.org/interspeech_2025/firc25_interspeech.html)
+- Synthetic Speech Source Tracing using Metric Learning. [paper](https://www.isca-archive.org/interspeech_2025/koutsianos25_interspeech.html)
+- Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing. [paper](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.html)
+- VIB-based Real Pre-emphasis Audio Deepfake Source Tracing. [paper](https://www.isca-archive.org/interspeech_2025/doan25_interspeech.html)
+- Open-Set Source Tracing of Audio Deepfake Systems. [paper](https://www.isca-archive.org/interspeech_2025/klein25_interspeech.html)
+- Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models. [paper](https://www.isca-archive.org/interspeech_2025/phukan25_interspeech.html)
+- Multimodal Zero-Shot Framework for Deepfake Hate Speech Detection in Low-Resource Languages. [paper](https://www.isca-archive.org/interspeech_2025/ranjan25b_interspeech.html)
+- Turing's Echo: Investigating Linguistic Sensitivity of Deepfake Voice Detection via Gamification. [paper](https://www.isca-archive.org/interspeech_2025/nguyen25e_interspeech.html)
+- Bona fide Cross Testing Reveals Weak Spot in Audio Deepfake Detection Systems. [paper](https://www.isca-archive.org/interspeech_2025/kwok25_interspeech.html)
+- BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention. [paper](https://www.isca-archive.org/interspeech_2025/elkheir25_interspeech.html)
+- Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes. [paper](https://www.isca-archive.org/interspeech_2025/glazer25_interspeech.html)
+- Replay Attacks Against Audio Deepfake Detection. [paper](https://www.isca-archive.org/interspeech_2025/muller25_interspeech.html)
+- Enhancing Audio Deepfake Detection by Improving Representation Similarity of Bonafide Speech. [paper](https://www.isca-archive.org/interspeech_2025/kim25g_interspeech.html)
+- Generalizable Audio Deepfake Detection via Hierarchical Structure Learning and Feature Whitening in Poincaré sphere. [paper](https://www.isca-archive.org/interspeech_2025/yang25l_interspeech.html)
+- VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset. [paper](https://www.isca-archive.org/interspeech_2025/wang25q_interspeech.html)
+- Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges. [paper](https://www.isca-archive.org/interspeech_2025/ali25_interspeech.html)
+- Naturalness-Aware Curriculum Learning with Dynamic Temperature for Speech Deepfake Detection. [paper](https://www.isca-archive.org/interspeech_2025/kim25j_interspeech.html)
+- Leveraging SSL Speech Features and Mamba for Enhanced DeepFake Detection. [paper](https://www.isca-archive.org/interspeech_2025/tran25b_interspeech.html)
+- A Comparative Study on Proactive and Passive Detection  of Deepfake Speech. [paper](https://www.isca-archive.org/interspeech_2025/wu25i_interspeech.html)
+- PhonemeFake: Redefining Deepfake Realism with Language-Driven Segmental Manipulation and Adaptive Bilevel Detection. [paper](https://www.isca-archive.org/interspeech_2025/baser25b_interspeech.html)
+- From Sharpness to Better Generalization for Speech Deepfake Detection. [paper](https://www.isca-archive.org/interspeech_2025/huang25e_interspeech.html)
+- Unmasking real-world audio deepfakes: A data-centric approach. [paper](https://www.isca-archive.org/interspeech_2025/combei25_interspeech.html)
+- A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations. [paper](https://www.isca-archive.org/interspeech_2025/grinberg25_interspeech.html)
+- PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing. [paper](https://www.isca-archive.org/interspeech_2025/zhang25g_interspeech.html)
+- Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection. [paper](https://www.isca-archive.org/interspeech_2025/febrinanto25_interspeech.html)
+- Layer-Wise Decision Fusion for Fake Audio Detection Using XLS-R. [paper](https://www.isca-archive.org/interspeech_2025/xiao25d_interspeech.html)
+- SynHate: Detecting Hate Speech in Synthetic Deepfake Audio. [paper](https://www.isca-archive.org/interspeech_2025/ranjan25_interspeech.html)
+- Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models. [paper](https://www.isca-archive.org/interspeech_2025/phuong25_interspeech.html)
+
+
 
 ### 2024
 ⭐[ASVSPOOF5_2024](https://www.isca-archive.org/asvspoof_2024)
