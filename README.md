@@ -87,7 +87,6 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention. [interspeech25](http://arxiv.org/pdf/2505.13930v1)
 -  Forensic deepfake audio detection using segmental speech features. [paper](http://arxiv.org/pdf/2505.13847v1)
 -  Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing. [interspeech25](http://arxiv.org/pdf/2505.14601v1)
--  Naturalness-Aware Curriculum Learning with Dynamic Temperature for Speech Deepfake Detection. [interspeech25](http://arxiv.org/pdf/2505.13976v1)
 -  Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy [Interspeech 2025](https://arxiv.org/abs/2505.12994)
 -  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1)
 -  Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models. [ACM TIT](https://dl.acm.org/doi/abs/10.1145/3736765)
@@ -125,6 +124,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization. [paper](https://arxiv.org/abs/2508.08141)
 -  SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias Analysis. [paper](https://arxiv.org/abs/2508.07944)
 -  Perturbed Public Voices: A Dataset for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2508.10949)
+-  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
 -  . [paper]()
 
 
