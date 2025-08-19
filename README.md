@@ -369,7 +369,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## Neurocomputing
 -  BFC-Net: Boundary-Frame cross graph attention network for partially spoofed audio localization. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015395)
-
+-  Make full use of your data: On copy-based augmentation in speech anti-spoofing. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225014717)
 
 ## speech communication
 -  One-class network leveraging spectro-temporal features for generalized synthetic speech detection [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167639325000159)
