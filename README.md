@@ -410,6 +410,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Synthetic Speech Detection Based on the Temporal Consistency of Speaker Features  [paper]( https://ieeexplore.ieee.org/document/10480137/ )
 -  Multi-Level Information Aggregation Based Graph Attention Networks Towards Fake Speech Detection  [paper]( https://ieeexplore.ieee.org/document/10545550/?arnumber=10545550 )
 -  Compressed Domain Invariant Adversarial Representation Learning for Robust Audio Deepfake Detection. [paper](https://ieeexplore.ieee.org/document/10909489)
+-  Adaptive Mixture of Low-Rank Experts for Robust Audio Spoofing Detection. [paper](https://ieeexplore.ieee.org/abstract/document/11108305)
+
 
 ## ACMMM
 ### 2025
