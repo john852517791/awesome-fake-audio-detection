@@ -125,6 +125,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias Analysis. [paper](https://arxiv.org/abs/2508.07944)
 -  Perturbed Public Voices: A Dataset for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2508.10949)
 -  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
+-  Rapidly Adapting to New Voice Spoofing: Few-Shot Detection of Synthesized Speech Under Distribution Shifts. [paper](https://arxiv.org/abs/2508.13320)
 -  . [paper]()
 
 
