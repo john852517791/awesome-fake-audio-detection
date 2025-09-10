@@ -127,7 +127,10 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
 -  Rapidly Adapting to New Voice Spoofing: Few-Shot Detection of Synthesized Speech Under Distribution Shifts. [paper](https://arxiv.org/abs/2508.13320)
 -  Wav2DF-TSL: Two-stage Learning with Efficient Pre-training and Hierarchical Experts Fusion for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2509.04161)
--. [paper]()
+-  Robust DeepFake Audio Detection via an Improved NeXt-TDNN with Multi-Fused Self-Supervised Learning Features. [paper](https://www.mdpi.com/2076-3417/15/17/9685)
+-  Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models. [paper](https://arxiv.org/abs/2509.02859)
+-  Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System. [paper](https://arxiv.org/abs/2508.20983)
+-  . [paper]()
 
 
 # recent conference papers
@@ -392,6 +395,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Modified Magnitude-Phase Spectrum Information for Spoofing Detection  [paper]( https://ieeexplore.ieee.org/document/9360468/ )
 -  Optimizing Tandem Speaker Verification and Anti-Spoofing Systems  [paper]( https://ieeexplore.ieee.org/document/9664367/ )
 -  FTDKD: Frequency-Time Domain Knowledge Distillation for Low-Quality Compressed Audio Deepfake Detection [paper](https://ieeexplore.ieee.org/abstract/document/10747292)
+-  Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing [paper](https://ieeexplore.ieee.org/abstract/document/11150711)
 
 
 ## TIFS [website](https://dblp.uni-trier.de/db/journals/spl/index.html)
