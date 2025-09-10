@@ -126,7 +126,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Perturbed Public Voices: A Dataset for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2508.10949)
 -  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
 -  Rapidly Adapting to New Voice Spoofing: Few-Shot Detection of Synthesized Speech Under Distribution Shifts. [paper](https://arxiv.org/abs/2508.13320)
--  . [paper]()
+-  Wav2DF-TSL: Two-stage Learning with Efficient Pre-training and Hierarchical Experts Fusion for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2509.04161)
+-. [paper]()
 
 
 # recent conference papers
@@ -421,7 +422,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -   4652 Generalizable Audio Deepfake Detection via Style Alignment and Structural Empirical Risk Minimization [paper]()
 -   6390 ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection [paper]()
 -   4903 Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes [paper]()
--   7335 Multi-level SSL Feature Gating for Audio Deepfake Detection [paper]()
+-   7335 Multi-level SSL Feature Gating for Audio Deepfake Detection [paper](https://arxiv.org/abs/2509.03409)
 
 
 ### past
