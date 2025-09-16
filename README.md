@@ -130,7 +130,12 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Robust DeepFake Audio Detection via an Improved NeXt-TDNN with Multi-Fused Self-Supervised Learning Features. [paper](https://www.mdpi.com/2076-3417/15/17/9685)
 -  Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models. [paper](https://arxiv.org/abs/2509.02859)
 -  Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System. [paper](https://arxiv.org/abs/2508.20983)
+-  MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2509.09175)
+-  Improving deepfake detection with predictive inter-modal alignment and feature reconstruction in audio-visual asynchrony scenarios. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007808)
+-  HISPASpoof: A New Dataset For Spanish Speech Forensics. [paper](https://arxiv.org/abs/2509.09155)
+-  Audio Deepfake Verification. [paper](https://arxiv.org/abs/2509.08476)
 -  . [paper]()
+
 
 
 # recent conference papers
