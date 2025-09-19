@@ -57,12 +57,12 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 # new arxiv （might be meaningful）
 -  Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels [may be submitted 2 trans](https://arxiv.org/abs/2501.04942)
--  Are audio DeepFake detection models polyglots? [may be submitted 2 conference](https://arxiv.org/abs/2412.17924)
--  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [may be submitted 2 conference](https://arxiv.org/abs/2501.06514)
+-  Are audio DeepFake detection models polyglots? [may be submitted 2 conference](https://arxiv.org/abs/2412.17924) [⭐code!!!](https://github.com/bartlomiejmarek/are_audio_df_polyglots)
+-  Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [may be submitted 2 conference](https://arxiv.org/abs/2501.06514) [⭐code!!!](https://github.com/xieyuankun/ST-Codecfake)
 -  CodecFake+: A Large-Scale Neural Audio Codec-based Deepfake Speech Dataset [may be submitted 2 TASLP](https://arxiv.org/abs/2501.08238)
 -  Unmasking Deepfakes: Leveraging Augmentations and Features Variability for Deepfake Speech Detection [submitted 2 speech communication](https://arxiv.org/abs/2501.05545)
 -  What Does an Audio Deepfake Detector Focus on? A Study in the Time  Domain. [paper](https://arxiv.org/abs/2501.13887?)
--  6KSFx Synth Dataset. [paper](https://arxiv.org/abs/2501.17198)
+-  6KSFx Synth Dataset. [paper](https://arxiv.org/abs/2501.17198) [⭐code!!!](https://github.com/nellyngz95/6KSFX)
 -  Deepfake Detection of Singing Voices With Whisper Encodings. [paper](https://arxiv.org/abs/2501.18919)
 -  Towards Explainable Spoofed Speech Attribution and Detection:a Probabilistic Approach for Characterizing Speech Synthesizer Components. [interpretable](https://arxiv.org/abs/2502.04049)
 -  Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection. [interpretable, but nothing new 4 FAD](https://arxiv.org/abs/2502.03559)
@@ -77,10 +77,10 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Cross-Technology Generalization in Synthesized Speech Detection:  Evaluating AST Models with Modern Voice Generators. [paper](https://arxiv.org/abs/2503.22503)
 -  The Interpretable and Transferable Adversarial Attack Against Synthetic Speech Detectors. [paper](https://dl.acm.org/doi/abs/10.1145/3727341)
 -  Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing. [paper]( https://arxiv.org/abs/2504.05657) [⭐code!!!](https://github.com/Liu-Tianchi/Nes2Net)
--  Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception. [paper](https://arxiv.org/abs/2504.06753) [⭐code soon!!!]()
--  End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation. [paper](https://arxiv.org/pdf/2504.20923)
+-  Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception. [paper](https://arxiv.org/abs/2504.06753) [⭐code !!!](https://github.com/xieyuankun/All-Type-ADD)
+-  End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation. [paper](https://arxiv.org/pdf/2504.20923) [⭐code!!!](https://github.com/adipiz99/rawnetlite)
 -  Detecting Musical Deepfakes. [paper](https://arxiv.org/abs/2505.09633)
--  LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2505.11079)
+-  LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2505.11079) [⭐code!!!](https://github.com/ucas-hao/qwen_audio_for_add)
 -  What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection. [paper](https://arxiv.org/abs/2505.17513)
 -  Replay Attacks Against Audio Deepfake Detection. [interspeech25](http://arxiv.org/pdf/2505.14862v1)
 -  Source Verification for Speech Deepfakes. [interspeech25](http://arxiv.org/pdf/2505.14188v1)
@@ -88,22 +88,22 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Forensic deepfake audio detection using segmental speech features. [paper](http://arxiv.org/pdf/2505.13847v1)
 -  Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing. [interspeech25](http://arxiv.org/pdf/2505.14601v1)
 -  Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy [Interspeech 2025](https://arxiv.org/abs/2505.12994)
--  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1)
+-  BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset. [dataset paper](http://arxiv.org/pdf/2505.10885v1) [⭐code!!!](https://github.com/KamruzzamanAsif/BanglaFake)
 -  Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models. [ACM TIT](https://dl.acm.org/doi/abs/10.1145/3736765)
--  Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes. [paper](https://arxiv.org/abs/2505.23619)
+-  Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes. [paper](https://arxiv.org/abs/2505.23619) [⭐code!!!](https://github.com/netaglazer/ADD-GP)
 -  Can Emotion Fool Anti-spoofing? [paper](https://arxiv.org/abs/2505.23962) 
--  Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection[paper](https://arxiv.org/abs/2505.24486) 
--  RPRA-ADD: Forgery Trace Enhancement-Driven Audio Deepfake Detection.[paper](https://arxiv.org/abs/2506.00375)
+-  Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection[paper](https://arxiv.org/abs/2505.24486)  [⭐code!!!](https://github.com/falihgoz/RAIS)
+-  RPRA-ADD: Forgery Trace Enhancement-Driven Audio Deepfake Detection.[paper](https://arxiv.org/abs/2506.00375) [⭐code soon!!!](https://github.com/WWWWxp/PRA-ADD)
 -  XMAD-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark. [paper](https://arxiv.org/abs/2506.00462)
 -  Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion. [paper](https://arxiv.org/abs/2506.02085)
 -  Trusted Fake Audio Detection Based on Dirichlet Distribution. [paper](https://arxiv.org/abs/2506.02401)
 -  A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations. [paper](https://arxiv.org/abs/2506.03425)
--  Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models. [paper](https://arxiv.org/abs/2506.03364)
+-  Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models. [paper](https://arxiv.org/abs/2506.03364) [⭐code soon!!!](https://github.com/Helix-IIIT-Delhi/COFFE-Singing_Voice_Deepfake)
 -  Bayesian Learning for Domain-Invariant Speaker Verification and  Anti-Spoofing. [paper](https://arxiv.org/abs/2506.0753622)
 -  Can Quantized Audio Language Models Perform Zero-Shot Spoofing  Detection? [paper](https://arxiv.org/abs/2506.0675612)
 -  Towards Generalized Source Tracing for Codec-Based Deepfake Speech. [paper](https://arxiv.org/abs/2506.072947)
 -  Lightweight Joint Audio-Visual Deepfake Detection via Single-Stream  Multi-Modal Learning Framework. [paper](https://arxiv.org/abs/2506.07358)
--  TADA: Training-free Attribution and Out-of-Domain Detection of Audio  Deepfakes. [paper](https://arxiv.org/abs/2506.05802)
+-  TADA: Training-free Attribution and Out-of-Domain Detection of Audio  Deepfakes. [paper](https://arxiv.org/abs/2506.05802) [⭐code!!!](https://github.com/adrianastan/tada)  
 -  Sharpness to Better Generalization for Speech Deepfake Detection. [paper](https://arxiv.org/abs/2506.11532)
 -  Amplifying Artifacts with Speech Enhancement in Voice Anti-spoofing. [paper](https://arxiv.org/abs/2506.11542)
 -  Towards Neural Audio Codec Source Parsing. [paper](https://arxiv.org/abs/2506.12627)
@@ -114,23 +114,22 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Generalizable Detection of Audio Deepfakes. [paper](https://arxiv.org/abs/2507.01750) 
 -  Phoneme-Level Analysis for Person-of-Interest Speech Deepfake Detection [paper](https://arxiv.org/abs/2507.08626) 
 - RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing. [paper](https://arxiv.org/abs/2507.08227)
--  Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection. [paper](http://arxiv.org/pdf/2507.11777v1) 
+-  Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection. [paper](http://arxiv.org/pdf/2507.11777v1) [⭐code!!!](https://github.com/KORALLLL/AASIST_SCALING)
 -  Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors. [paper](https://link.springer.com/article/10.1186/s42400-024-00346-1)
--  ESDD 2026: Environmental Sound Deepfake Detection Challenge Evaluation Plan. [paper](https://arxiv.org/abs/2508.04529)
--  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
+-  ESDD 2026: Environmental Sound Deepfake Detection Challenge Evaluation Plan. [paper](https://arxiv.org/abs/2508.04529) [⭐code!!!](https://github.com/apple-yinhan/EnvSDD)
+-  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143) [⭐code soon!!!](https://github.com/xuanxixi/Multilingual-Source-Tracing)
 -  Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework. [paper](https://arxiv.org/abs/2508.02521)
 -  Generalizable Audio Deepfake Detection via Hierarchical Structure Learning and Feature Whitening in Poincaré sphere. [paper](https://arxiv.org/abs/2508.01897)
--  Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative. [IEEE ASRU](https://arxiv.org/abs/2508.09294)
+-  Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative. [IEEE ASRU](https://arxiv.org/abs/2508.09294) [⭐code soon!!!](https://github.com/xuanxixi/Fake-Mamba)
 -  Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization. [paper](https://arxiv.org/abs/2508.08141)
 -  SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias Analysis. [paper](https://arxiv.org/abs/2508.07944)
 -  Perturbed Public Voices: A Dataset for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2508.10949)
--  Multilingual Source Tracing of Speech Deepfakes: A First Benchmark. [paper](https://arxiv.org/abs/2508.04143)
 -  Rapidly Adapting to New Voice Spoofing: Few-Shot Detection of Synthesized Speech Under Distribution Shifts. [paper](https://arxiv.org/abs/2508.13320)
 -  Wav2DF-TSL: Two-stage Learning with Efficient Pre-training and Hierarchical Experts Fusion for Robust Audio Deepfake Detection. [paper](https://arxiv.org/abs/2509.04161)
--  Robust DeepFake Audio Detection via an Improved NeXt-TDNN with Multi-Fused Self-Supervised Learning Features. [paper](https://www.mdpi.com/2076-3417/15/17/9685)
+-  Robust DeepFake Audio Detection via an Improved NeXt-TDNN with Multi-Fused Self-Supervised Learning Features. [paper](https://www.mdpi.com/2076-3417/15/17/9685) [⭐code!!!](https://github.com/gultahaoglu/Deepfake-audio-detection-SSLFeatures-NextTDNN)
 -  Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models. [paper](https://arxiv.org/abs/2509.02859)
 -  Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System. [paper](https://arxiv.org/abs/2508.20983)
--  MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2509.09175)
+-  MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection. [paper](https://arxiv.org/abs/2509.09175) [⭐code!!!](https://github.com/adithya-s-k/MoLE)
 -  Improving deepfake detection with predictive inter-modal alignment and feature reconstruction in audio-visual asynchrony scenarios. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007808)
 -  HISPASpoof: A New Dataset For Spanish Speech Forensics. [paper](https://arxiv.org/abs/2509.09155)
 -  Audio Deepfake Verification. [paper](https://arxiv.org/abs/2509.08476)
@@ -167,29 +166,29 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 ## AAAI
 
 ### 2025
--  Region-Based Optimization in Continual Learning for Audio Deepfake Detection [paper](https://arxiv.org/abs/2412.11551)
--  Improving Generalization for AI-Synthesized Voice Detection [paper](https://arxiv.org/abs/2412.19279)
--  Multi-View Collaborative Learning Network for Speech Deepfake Detection. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32094)
--  Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32093)
+-  Region-Based Optimization in Continual Learning for Audio Deepfake Detection [paper](https://arxiv.org/abs/2412.11551) [code](https://github.com/cyjie429/RegO)
+-  Improving Generalization for AI-Synthesized Voice Detection [paper](https://arxiv.org/abs/2412.19279) [code](https://github.com/Purdue-M2/AI-Synthesized-Voice-Generalization)
+-  Multi-View Collaborative Learning Network for Speech Deepfake Detection. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32094) [code](https://github.com/RedamancyAY/MVCL-ADD)
+-  Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32093) [code](https://github.com/RedamancyAY/PLFD-ADD)
 
 
 ### 2024
--  What to remember: Self-adaptive continual learning for audio deepfake detection [paper](https://arxiv.org/abs/2412.11551)
+-  What to remember: Self-adaptive continual learning for audio deepfake detection [paper](https://arxiv.org/abs/2412.11551) [code](https://github.com/Cecile-hi/Radian-Weight-Modification)
 
 
 ## ICML
 
 ### 2023
--  Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection[paper](https://proceedings.mlr.press/v202/zhang23au.html)
+-  Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection [paper](https://proceedings.mlr.press/v202/zhang23au.html) [code](https://github.com/Cecile-hi/Regularized-Adaptive-Weight-Modification)
 
 
 ## ICLR
 
 ### 2025
 - I Can Hear You: Selective Robust Training for Deepfake Audio Detection [Accept! congratulations](https://openreview.net/forum?id=2GcR9bO620)
-- SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Toward Cutting-Edge Speech Generation Methods [reject,pity](https://openreview.net/forum?id=GpUO6qYNQG)
-- Contrastive Learning from Synthetic Audio Doppelgängers [augmentation paper, Accept](https://openreview.net/forum?id=XRtyVELwr6)
-- SONICS: Synthetic Or Not - Identifying Counterfeit Songs. [paper](https://openreview.net/forum?id=PY7KSh29Z8)
+- SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Toward Cutting-Edge Speech Generation Methods [reject,pity](https://openreview.net/forum?id=GpUO6qYNQG) [code soon](https://github.com/YMLLG/SPEECHFAKE)
+- Contrastive Learning from Synthetic Audio Doppelgängers [augmentation paper, Accept](https://openreview.net/forum?id=XRtyVELwr6) [code](https://github.com/PapayaResearch/doppelgangers)
+- SONICS: Synthetic Or Not - Identifying Counterfeit Songs. [paper](https://openreview.net/forum?id=PY7KSh29Z8) [code](https://github.com/awsaf49/sonics)
 
 ## interspeech [website](https://www.isca-archive.org/index.html)
 
