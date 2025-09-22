@@ -133,6 +133,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Improving deepfake detection with predictive inter-modal alignment and feature reconstruction in audio-visual asynchrony scenarios. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007808)
 -  HISPASpoof: A New Dataset For Spanish Speech Forensics. [paper](https://arxiv.org/abs/2509.09155)
 -  Audio Deepfake Verification. [paper](https://arxiv.org/abs/2509.08476)
+-  How Does Instrumental Music Help SingFake Detection? [paper](https://arxiv.org/pdf/2509.14675)
+-  Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection. [paper](https://arxiv.org/pdf/2509.13878)
+-  Token-based Attractors and Cross-attention in Spoof Diarization. [paper](https://arxiv.org/abs/2509.13085)
 -  . [paper]()
 
 
