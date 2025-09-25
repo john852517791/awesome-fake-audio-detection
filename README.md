@@ -54,6 +54,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 # tools
 
+[interactive deepfake literature search tool](https://deepfake-total.com/related_work/)
+
 [asvspoof2021 baseline implementation](https://github.com/asvspoof-challenge/2021.git)
 
 [torch_lightning framework for fad](https://github.com/john852517791/pytorch_lightning_FAD)
