@@ -142,6 +142,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  How Does Instrumental Music Help SingFake Detection? [paper](https://arxiv.org/pdf/2509.14675)
 -  Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection. [paper](https://arxiv.org/pdf/2509.13878)
 -  Token-based Attractors and Cross-attention in Spoof Diarization. [paper](https://arxiv.org/abs/2509.13085)
+-  FakeSound2: A Benchmark for Explainable and Generalizable Deepfake Sound Detection. [paper](https://arxiv.org/abs/2509.17162)
 -  . [paper]()
 
 
