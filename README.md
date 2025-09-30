@@ -143,6 +143,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection. [paper](https://arxiv.org/pdf/2509.13878)
 -  Token-based Attractors and Cross-attention in Spoof Diarization. [paper](https://arxiv.org/abs/2509.13085)
 -  FakeSound2: A Benchmark for Explainable and Generalizable Deepfake Sound Detection. [paper](https://arxiv.org/abs/2509.17162)
+-  QAMO: Quality-aware Multi-centroid One-class Learning For Speech Deepfake Detection. [OC-softmax-family](https://arxiv.org/abs/2509.20679)
+-  Addressing Gradient Misalignment in Data-Augmented Training for Robust Speech Deepfake Detection. [paper](https://arxiv.org/abs/2509.20682)
+-  Why Speech Deepfake Detectors Won't Generalize: The Limits of Detection in an Open World. [paper](https://arxiv.org/abs/2509.20405)
 -  . [paper]()
 
 
@@ -410,6 +413,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Optimizing Tandem Speaker Verification and Anti-Spoofing Systems  [paper]( https://ieeexplore.ieee.org/document/9664367/ )
 -  FTDKD: Frequency-Time Domain Knowledge Distillation for Low-Quality Compressed Audio Deepfake Detection [paper](https://ieeexplore.ieee.org/abstract/document/10747292)
 -  Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing [paper](https://ieeexplore.ieee.org/abstract/document/11150711)
+-  AWaveFormer: Audio Wavelet Transformer Network for Generalized Audio Deepfake Detection [paper](https://ieeexplore.ieee.org/abstract/document/11168216)
 
 
 ## TIFS [website](https://dblp.uni-trier.de/db/journals/spl/index.html)
