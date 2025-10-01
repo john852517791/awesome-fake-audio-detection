@@ -355,6 +355,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  SingFake: Singing Voice Deepfake Detection  [paper]( https://ieeexplore.ieee.org/document/10448184/?arnumber=10448184 )
 -  VFD-Net: Vocoder Fingerprints Detection for Fake Audio  [paper]( https://ieeexplore.ieee.org/document/10446798/?arnumber=10446798 )
 -  HM-CONFORMER: A Conformer-Based Audio Deepfake Detection System with Hierarchical Pooling and Multi-Level Classification Token Aggregation Methods  [paper]( https://ieeexplore.ieee.org/document/10448453/?arnumber=10448453 )
+-  Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection. [paper](https://arxiv.org/abs/2309.08099)
 
 
 
