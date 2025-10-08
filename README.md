@@ -151,6 +151,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment. [paper](https://arxiv.org/abs/2509.23618)
 -  Advancing Zero-Shot Open-Set Speech Deepfake Source Tracing. [paper](https://arxiv.org/abs/2509.24674)
 -  AUDDT: Audio Unified Deepfake Detection Benchmark Toolkit. [paper](https://arxiv.org/abs/2509.21597) [code](https://github.com/MuSAELab/AUDDT)
+-  Frustratingly Easy Zero-Day Audio DeepFake Detection via Retrieval Augmentation and Profile Matching. [paper](https://arxiv.org/abs/2509.21728)
 -  . [paper]()
 
 
