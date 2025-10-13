@@ -156,6 +156,9 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 
 
+# workshop
+- DFF '25: Proceedings of the 1st on Deepfake Forensics Workshop: Detection, Attribution, Recognition, and Adversarial Challenges in the Era of AI-Generated Media [website](https://dl.acm.org/doi/proceedings/10.1145/3746265)
+
 # recent conference papers
 
 ## NDSS
