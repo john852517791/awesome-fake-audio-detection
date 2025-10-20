@@ -152,7 +152,11 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Advancing Zero-Shot Open-Set Speech Deepfake Source Tracing. [paper](https://arxiv.org/abs/2509.24674)
 -  AUDDT: Audio Unified Deepfake Detection Benchmark Toolkit. [paper](https://arxiv.org/abs/2509.21597) [code](https://github.com/MuSAELab/AUDDT)
 -  Frustratingly Easy Zero-Day Audio DeepFake Detection via Retrieval Augmentation and Profile Matching. [paper](https://arxiv.org/abs/2509.21728)
+-  FakeMark: Deepfake Speech Attribution With Watermarked Artifacts. [paper](https://arxiv.org/abs/2510.12042)
+-  Source Vendor Tracing of Audio Deepfakes. [paper](https://link.springer.com/chapter/10.1007/978-3-032-07956-5_22)
+-  Multimodal Deepfake Generation and Detection: Challenges, Methods, and Future Directions. [paper](https://dl.acm.org/doi/full/10.1145/3747327.3762826)
 -  . [paper]()
+
 
 
 
