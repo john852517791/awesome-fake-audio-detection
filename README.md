@@ -155,10 +155,24 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  FakeMark: Deepfake Speech Attribution With Watermarked Artifacts. [paper](https://arxiv.org/abs/2510.12042)
 -  Source Vendor Tracing of Audio Deepfakes. [paper](https://link.springer.com/chapter/10.1007/978-3-032-07956-5_22)
 -  Multimodal Deepfake Generation and Detection: Challenges, Methods, and Future Directions. [paper](https://dl.acm.org/doi/full/10.1145/3747327.3762826)
+-  SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection. [paper](https://arxiv.org/abs/2511.21325)
+-  Continual Audio Deepfake Detection via Universal Adversarial Perturbation. [paper](https://arxiv.org/abs/2511.19974)
+-  Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces. [paper](https://arxiv.org/abs/2511.10793)
+-  A Parameter-Efficient Multi-Scale Convolutional Adapter for Synthetic Speech Detection. [paper](https://arxiv.org/abs/2510.24852)
+-  TwinShift: Benchmarking Audio Deepfake Detection across Synthesizer and Speaker Shifts. [paper](https://arxiv.org/abs/2510.23096)
+-  Can Current Detectors Catch Face-to-Voice Deepfake Attacks?. [paper](https://arxiv.org/abs/2510.21004)
+-  EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection. [paper](https://arxiv.org/abs/2510.19414)
+-  Not All Deepfakes Are Created Equal: Triaging Audio Forgeries for Robust Deepfake Singer Identification. [paper](https://arxiv.org/abs/2510.17474)
 -  . [paper]()
 
 
 
+# interesting and FAD-unrelated paper （might be meaningful）
+-  Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation. [paper](https://arxiv.org/abs/2511.16757)
+-  Learning Interpretable Features in Audio Latent Spaces via Sparse Autoencoders. [paper](https://arxiv.org/abs/2510.23802)
+-  SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations. [paper](https://arxiv.org/abs/2510.25955)
+-  Data-Centric Lessons To Improve Speech-Language Pretraining. [paper](https://arxiv.org/abs/2510.20860)
+-  Towards the Formalization of a Trustworthy AI for Mining Interpretable Models explOiting Sophisticated Algorithms. [paper](https://arxiv.org/abs/2510.20621)
 
 # workshop
 - DFF '25: Proceedings of the 1st on Deepfake Forensics Workshop: Detection, Attribution, Recognition, and Adversarial Challenges in the Era of AI-Generated Media [website](https://dl.acm.org/doi/proceedings/10.1145/3746265)
