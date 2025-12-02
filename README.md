@@ -412,6 +412,7 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 
 ## Computer Speech & Language
 -  Leveraging distance information for generalized spoofing speech detection. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230825000294)
+-  Toward robust replay attack detection in Automatic Speaker Verification: A study of spectrum estimation and channel magnitude response modeling. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230825001317)
 
 
 ## Knowledge-Based Systems
