@@ -163,6 +163,8 @@ Here is nothing about speech signal processing, speech synthesis, Speech Enhance
 -  Can Current Detectors Catch Face-to-Voice Deepfake Attacks?. [paper](https://arxiv.org/abs/2510.21004)
 -  EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection. [paper](https://arxiv.org/abs/2510.19414)
 -  Not All Deepfakes Are Created Equal: Triaging Audio Forgeries for Robust Deepfake Singer Identification. [paper](https://arxiv.org/abs/2510.17474)
+-  SynSpeech: A Dataset and Benchmark for Fake Speech Detection. [paper](https://dl.acm.org/doi/full/10.1145/3743093.3771030)
+-  FALU: A Proactive Deepfake Detection Scheme Based on Average Hashing and Mamba-Like Linear Attention U-Net. [paper](https://dl.acm.org/doi/full/10.1145/3743093.3770991)
 -  . [paper]()
 
 
