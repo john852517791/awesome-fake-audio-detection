@@ -13,18 +13,23 @@ def get_weekly_deepfake_papers():
     new_papers = []
     seen_ids = set() # 用于单次抓取内部去重
     now = datetime.datetime.now(datetime.timezone.utc)
-    last_week = now - datetime.timedelta(days=360)
+    last_week = now - datetime.timedelta(days=600)
     # print(last_week)
     keywords = [
         "deepfake speech detection",
         "audio deepfake",
         "deepfake audio",
-        "fake audio",
+        "fake audio detection",
+        "fake speech detection",
+        "fake music detection",
         "Speech Deepfake Detection",
         "music deepfake detection",
         "music antispoof",
         "audio antispoof",
         "speech antispoof",
+        "speech spoofing detection",
+        "audio spoofing detection",
+        "music spoofing detection",
         "SingFake Detection",
         "Sound Deepfake Detection",
     ]
