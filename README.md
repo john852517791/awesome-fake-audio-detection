@@ -1,9 +1,15 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-03-02
+> 最后更新时间: 2026-03-09
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-03-06 | **Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR** | Ajinkya Kulkarni | [arXiv](http://arxiv.org/abs/2603.06164v1) |
+| 2026-03-06 | **How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?** | Daixian Li | [arXiv](http://arxiv.org/abs/2603.05852v1) |
+| 2026-03-05 | **The First Environmental Sound Deepfake Detection Challenge: Benchmarking Robustness, Evaluation, and Insights** | Han Yin | [arXiv](http://arxiv.org/abs/2603.04865v1) |
+| 2026-03-04 | **Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection** | Cemal Hanilçi | [arXiv](http://arxiv.org/abs/2603.03921v1) |
+| 2026-03-03 | **Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?** | Xin Wang | [arXiv](http://arxiv.org/abs/2603.02914v1) |
+| 2026-03-02 | **A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection** | Hashim Ali | [arXiv](http://arxiv.org/abs/2603.01482v1) |
 | 2026-02-24 | **Assessing the Impact of Speaker Identity in Speech Spoofing Detection** | Anh-Tuan Dao | [arXiv](http://arxiv.org/abs/2602.20805v1) |
 | 2026-02-18 | **How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection** | Yixuan Xiao | [arXiv](http://arxiv.org/abs/2602.16343v1) |
 | 2026-02-14 | **BreathNet: Generalizable Audio Deepfake Detection via Breath-Cue-Guided Feature Refinement** | Zhe Ye | [arXiv](http://arxiv.org/abs/2602.13596v1) |
@@ -228,10 +234,12 @@
 | 2024-07-11 | **An Unsupervised Domain Adaptation Method for Locating Manipulated Region in partially fake Audio** | Siding Zeng | [arXiv](http://arxiv.org/abs/2407.08239v1) |
 | 2024-07-10 | **Source Tracing of Audio Deepfake Systems** | Nicholas Klein | [arXiv](http://arxiv.org/abs/2407.08016v1) |
 | 2024-07-10 | **Targeted Augmented Data for Audio Deepfake Detection** | Marcella Astrid | [arXiv](http://arxiv.org/abs/2407.07598v1) |
+| 2024-07-03 | **Towards Attention-based Contrastive Learning for Audio Spoof Detection** | Chirag Goel | [arXiv](http://arxiv.org/abs/2407.03514v1) |
 | 2024-07-01 | **Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models** | Lam Pham | [arXiv](http://arxiv.org/abs/2407.01777v1) |
 | 2024-06-24 | **One-Class Learning with Adaptive Centroid Shift for Audio Deepfake Detection** | Hyun Myung Kim | [arXiv](http://arxiv.org/abs/2406.16716v1) |
 | 2024-06-20 | **A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection** | Kyungbok Lee | [arXiv](http://arxiv.org/abs/2406.14176v3) |
 | 2024-06-14 | **Frequency-mix Knowledge Distillation for Fake Speech Detection** | Cunhang Fan | [arXiv](http://arxiv.org/abs/2406.09664v1) |
+| 2024-06-13 | **Interpretable Temporal Class Activation Representation for Audio Spoofing Detection** | Menglu Li | [arXiv](http://arxiv.org/abs/2406.08825v2) |
 | 2024-06-12 | **FakeSound: Deepfake General Audio Detection** | Zeyu Xie | [arXiv](http://arxiv.org/abs/2406.08052v1) |
 | 2024-06-12 | **Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio** | Yi Lu | [arXiv](http://arxiv.org/abs/2406.08112v1) |
 | 2024-06-11 | **CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems** | Haibin Wu | [arXiv](http://arxiv.org/abs/2406.07237v1) |
@@ -282,6 +290,7 @@
 | 2023-08-19 | **Spatial Reconstructed Local Attention Res2Net with F0 Subband for Fake Speech Detection** | Cunhang Fan | [arXiv](http://arxiv.org/abs/2308.09944v2) |
 | 2023-08-07 | **Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection** | Xiaohui Zhang | [arXiv](http://arxiv.org/abs/2308.03300v1) |
 | 2023-07-28 | **All-for-One and One-For-All: Deep learning-based feature fusion for Synthetic Speech Detection** | Daniele Mari | [arXiv](http://arxiv.org/abs/2307.15555v1) |
+| 2023-07-13 | **Uncovering the Deceptions: An Analysis on Audio Spoofing Detection and Future Prospects** | Rishabh Ranjan | [arXiv](http://arxiv.org/abs/2307.06669v1) |
 | 2023-07-03 | **An End-to-End Multi-Module Audio Deepfake Generation System for ADD Challenge 2023** | Sheng Zhao | [arXiv](http://arxiv.org/abs/2307.00729v1) |
 | 2023-06-27 | **TranssionADD: A multi-frame reinforcement based sequence tagging model for audio deepfake detection** | Jie Liu | [arXiv](http://arxiv.org/abs/2306.15212v1) |
 | 2023-06-27 | **Multi-perspective Information Fusion Res2Net with RandomSpecmix for Fake Speech Detection** | Shunbo Dong | [arXiv](http://arxiv.org/abs/2306.15389v1) |
