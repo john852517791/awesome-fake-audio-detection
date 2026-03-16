@@ -1,12 +1,17 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-03-09
+> 最后更新时间: 2026-03-16
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-03-11 | **Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning** | Artem Dvirniak | [arXiv](http://arxiv.org/abs/2603.10725v2) |
+| 2026-03-11 | **Probabilistic Verification of Voice Anti-Spoofing Models** | Evgeny Kushnir | [arXiv](http://arxiv.org/abs/2603.10713v2) |
+| 2026-03-09 | **Gender Fairness in Audio Deepfake Detection: Performance and Disparity Analysis** | Aishwarya Fursule | [arXiv](http://arxiv.org/abs/2603.09007v1) |
+| 2026-03-09 | **Unsupervised Domain Adaptation for Audio Deepfake Detection with Modular Statistical Transformations** | Urawee Thani | [arXiv](http://arxiv.org/abs/2603.07935v1) |
 | 2026-03-06 | **Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR** | Ajinkya Kulkarni | [arXiv](http://arxiv.org/abs/2603.06164v1) |
 | 2026-03-06 | **How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?** | Daixian Li | [arXiv](http://arxiv.org/abs/2603.05852v1) |
 | 2026-03-05 | **The First Environmental Sound Deepfake Detection Challenge: Benchmarking Robustness, Evaluation, and Insights** | Han Yin | [arXiv](http://arxiv.org/abs/2603.04865v1) |
+| 2026-03-05 | **The First Environmental Sound Deepfake Detection Challenge: Benchmarking Robustness, Evaluation, and Insights** | Han Yin | [arXiv](http://arxiv.org/abs/2603.04865v2) |
 | 2026-03-04 | **Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection** | Cemal Hanilçi | [arXiv](http://arxiv.org/abs/2603.03921v1) |
 | 2026-03-03 | **Does Fine-tuning by Reinforcement Learning Improve Generalization in Binary Speech Deepfake Detection?** | Xin Wang | [arXiv](http://arxiv.org/abs/2603.02914v1) |
 | 2026-03-02 | **A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection** | Hashim Ali | [arXiv](http://arxiv.org/abs/2603.01482v1) |
