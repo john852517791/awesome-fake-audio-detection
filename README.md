@@ -1,9 +1,12 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-03-16
+> 最后更新时间: 2026-03-18
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-03-16 | **PhonemeDF: A Synthetic Speech Dataset for Audio Deepfake Detection and Naturalness Evaluation** | Vamshi Nallaguntla | [arXiv](http://arxiv.org/abs/2603.15037v1) |
+| 2026-03-16 | **Investigating the Impact of Speech Enhancement on Audio Deepfake Detection in Noisy Environments** | Anacin | [arXiv](http://arxiv.org/abs/2603.14767v1) |
+| 2026-03-13 | **Understanding the strengths and weaknesses of SSL models for audio deepfake model attribution** | Gabriel Pîrlogeanu | [arXiv](http://arxiv.org/abs/2603.13488v1) |
 | 2026-03-11 | **Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning** | Artem Dvirniak | [arXiv](http://arxiv.org/abs/2603.10725v2) |
 | 2026-03-11 | **Probabilistic Verification of Voice Anti-Spoofing Models** | Evgeny Kushnir | [arXiv](http://arxiv.org/abs/2603.10713v2) |
 | 2026-03-09 | **Gender Fairness in Audio Deepfake Detection: Performance and Disparity Analysis** | Aishwarya Fursule | [arXiv](http://arxiv.org/abs/2603.09007v1) |

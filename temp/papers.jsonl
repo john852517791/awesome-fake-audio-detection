@@ -361,3 +361,6 @@
 {"title": "Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning", "first_author": "Artem Dvirniak", "url": "http://arxiv.org/abs/2603.10725v2", "id": "2603.10725v2", "published": "2026-03-11"}
 {"title": "Probabilistic Verification of Voice Anti-Spoofing Models", "first_author": "Evgeny Kushnir", "url": "http://arxiv.org/abs/2603.10713v2", "id": "2603.10713v2", "published": "2026-03-11"}
 {"title": "The First Environmental Sound Deepfake Detection Challenge: Benchmarking Robustness, Evaluation, and Insights", "first_author": "Han Yin", "url": "http://arxiv.org/abs/2603.04865v2", "id": "2603.04865v2", "published": "2026-03-05"}
+{"title": "PhonemeDF: A Synthetic Speech Dataset for Audio Deepfake Detection and Naturalness Evaluation", "first_author": "Vamshi Nallaguntla", "url": "http://arxiv.org/abs/2603.15037v1", "id": "2603.15037v1", "published": "2026-03-16"}
+{"title": "Investigating the Impact of Speech Enhancement on Audio Deepfake Detection in Noisy Environments", "first_author": "Anacin", "url": "http://arxiv.org/abs/2603.14767v1", "id": "2603.14767v1", "published": "2026-03-16"}
+{"title": "Understanding the strengths and weaknesses of SSL models for audio deepfake model attribution", "first_author": "Gabriel Pîrlogeanu", "url": "http://arxiv.org/abs/2603.13488v1", "id": "2603.13488v1", "published": "2026-03-13"}
