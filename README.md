@@ -1,14 +1,18 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-03-18
+> 最后更新时间: 2026-03-24
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-03-21 | **SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection** | Kyudan Jung | [arXiv](http://arxiv.org/abs/2603.20686v1) |
+| 2026-03-20 | **Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio** | Candice R. Gerstner | [arXiv](http://arxiv.org/abs/2603.20165v1) |
+| 2026-03-19 | **Enhancing Multi-Corpus Training in SSL-Based Anti-Spoofing Models: Domain-Invariant Feature Extraction** | Anh-Tuan Dao | [arXiv](http://arxiv.org/abs/2603.18657v1) |
 | 2026-03-16 | **PhonemeDF: A Synthetic Speech Dataset for Audio Deepfake Detection and Naturalness Evaluation** | Vamshi Nallaguntla | [arXiv](http://arxiv.org/abs/2603.15037v1) |
 | 2026-03-16 | **Investigating the Impact of Speech Enhancement on Audio Deepfake Detection in Noisy Environments** | Anacin | [arXiv](http://arxiv.org/abs/2603.14767v1) |
 | 2026-03-13 | **Understanding the strengths and weaknesses of SSL models for audio deepfake model attribution** | Gabriel Pîrlogeanu | [arXiv](http://arxiv.org/abs/2603.13488v1) |
 | 2026-03-11 | **Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning** | Artem Dvirniak | [arXiv](http://arxiv.org/abs/2603.10725v2) |
 | 2026-03-11 | **Probabilistic Verification of Voice Anti-Spoofing Models** | Evgeny Kushnir | [arXiv](http://arxiv.org/abs/2603.10713v2) |
+| 2026-03-10 | **Quantizer-Aware Hierarchical Neural Codec Modeling for Speech Deepfake Detection** | Jinyang Wu | [arXiv](http://arxiv.org/abs/2603.16914v1) |
 | 2026-03-09 | **Gender Fairness in Audio Deepfake Detection: Performance and Disparity Analysis** | Aishwarya Fursule | [arXiv](http://arxiv.org/abs/2603.09007v1) |
 | 2026-03-09 | **Unsupervised Domain Adaptation for Audio Deepfake Detection with Modular Statistical Transformations** | Urawee Thani | [arXiv](http://arxiv.org/abs/2603.07935v1) |
 | 2026-03-06 | **Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR** | Ajinkya Kulkarni | [arXiv](http://arxiv.org/abs/2603.06164v1) |
