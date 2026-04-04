@@ -1,9 +1,15 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-03-24
+> 最后更新时间: 2026-04-04
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-04-01 | **TRACE: Training-Free Partial Audio Deepfake Detection via Embedding Trajectory Analysis of Speech Foundation Models** | Awais Khan | [arXiv](http://arxiv.org/abs/2604.01083v1) |
+| 2026-03-30 | **Audio Language Model for Deepfake Detection Grounded in Acoustic Chain-of-Thought** | Runkun Chen | [arXiv](http://arxiv.org/abs/2603.28021v2) |
+| 2026-03-29 | **A General Model for Deepfake Speech Detection: Diverse Bonafide Resources or Diverse AI-Based Generators** | Lam Pham | [arXiv](http://arxiv.org/abs/2603.27557v1) |
+| 2026-03-27 | **AFSS: Artifact-Focused Self-Synthesis for Mitigating Bias in Audio Deepfake Detection** | Hai-Son Nguyen-Le | [arXiv](http://arxiv.org/abs/2603.26856v1) |
+| 2026-03-25 | **Enhancing Efficiency and Performance in Deepfake Audio Detection through Neuron-level Dropin & Neuroplasticity Mechanisms** | Yupei Li | [arXiv](http://arxiv.org/abs/2603.24343v2) |
+| 2026-03-24 | **Echoes: A semantically-aligned music deepfake detection dataset** | Octavian Pascu | [arXiv](http://arxiv.org/abs/2603.23667v1) |
 | 2026-03-21 | **SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection** | Kyudan Jung | [arXiv](http://arxiv.org/abs/2603.20686v1) |
 | 2026-03-20 | **Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio** | Candice R. Gerstner | [arXiv](http://arxiv.org/abs/2603.20165v1) |
 | 2026-03-19 | **Enhancing Multi-Corpus Training in SSL-Based Anti-Spoofing Models: Domain-Invariant Feature Extraction** | Anh-Tuan Dao | [arXiv](http://arxiv.org/abs/2603.18657v1) |
