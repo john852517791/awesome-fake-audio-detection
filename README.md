@@ -1,9 +1,15 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-04-04
+> 最后更新时间: 2026-04-10
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-04-09 | **Quantum Vision Theory Applied to Audio Classification for Deepfake Speech Detection** | Khalid Zaman | [arXiv](http://arxiv.org/abs/2604.08104v1) |
+| 2026-04-09 | **AT-ADD: All-Type Audio Deepfake Detection Challenge Evaluation Plan** | Yuankun Xie | [arXiv](http://arxiv.org/abs/2604.08184v1) |
+| 2026-04-09 | **DeepFense: A Unified, Modular, and Extensible Framework for Robust Deepfake Audio Detection** | Yassine El Kheir | [arXiv](http://arxiv.org/abs/2604.08450v1) |
+| 2026-04-06 | **Joint Fullband-Subband Modeling for High-Resolution SingFake Detection** | Xuanjun Chen | [arXiv](http://arxiv.org/abs/2604.04841v1) |
+| 2026-04-03 | **Split and Conquer Partial Deepfake Speech** | Inbal Rimon | [arXiv](http://arxiv.org/abs/2604.02913v1) |
+| 2026-04-03 | **If It's Good Enough for You, It's Good Enough for Me: Transferability of Audio Sufficiencies across Models** | David A. Kelly | [arXiv](http://arxiv.org/abs/2604.02937v1) |
 | 2026-04-01 | **TRACE: Training-Free Partial Audio Deepfake Detection via Embedding Trajectory Analysis of Speech Foundation Models** | Awais Khan | [arXiv](http://arxiv.org/abs/2604.01083v1) |
 | 2026-03-30 | **Audio Language Model for Deepfake Detection Grounded in Acoustic Chain-of-Thought** | Runkun Chen | [arXiv](http://arxiv.org/abs/2603.28021v2) |
 | 2026-03-29 | **A General Model for Deepfake Speech Detection: Diverse Bonafide Resources or Diverse AI-Based Generators** | Lam Pham | [arXiv](http://arxiv.org/abs/2603.27557v1) |
