@@ -32,6 +32,9 @@ def get_weekly_deepfake_papers():
         "music spoofing detection",
         "SingFake Detection",
         "Sound Deepfake Detection",
+        "Speech Deception Detection",
+        "Audio Deception Detection",
+        "Music Deception Detection",
     ]
     # 2. 构建搜索查询
     # ti: 标题搜索，abs: 摘要搜索
