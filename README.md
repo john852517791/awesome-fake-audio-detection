@@ -1,11 +1,18 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-04-24
+> 最后更新时间: 2026-05-06
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-05-05 | **Deepfake Audio Detection Using Self-supervised Fusion Representations** | Khalid Zaman | [arXiv](http://arxiv.org/abs/2605.03420v1) |
+| 2026-05-04 | **Phoneme-Level Deepfake Detection Across Emotional Conditions Using Self-Supervised Embeddings** | Vamshi Nallaguntla | [arXiv](http://arxiv.org/abs/2605.03079v1) |
+| 2026-05-04 | **Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization** | Tung Vu | [arXiv](http://arxiv.org/abs/2605.02223v1) |
+| 2026-04-29 | **Diffusion Reconstruction towards Generalizable Audio Deepfake Detection** | Bo Cheng | [arXiv](http://arxiv.org/abs/2604.26465v1) |
+| 2026-04-28 | **Similarity Choice and Negative Scaling in Supervised Contrastive Learning for Deepfake Audio Detection** | Jaskirat Sudan | [arXiv](http://arxiv.org/abs/2604.26057v1) |
+| 2026-04-26 | **RTCFake: Speech Deepfake Detection in Real-Time Communication** | Jun Xue | [arXiv](http://arxiv.org/abs/2604.23742v1) |
 | 2026-04-21 | **Environmental Sound Deepfake Detection Using Deep-Learning Framework** | Lam Pham | [arXiv](http://arxiv.org/abs/2604.19652v1) |
 | 2026-04-21 | **Audio Spoof Detection with GaborNet** | Waldek Maciejko | [arXiv](http://arxiv.org/abs/2604.19209v1) |
+| 2026-04-21 | **Environmental Sound Deepfake Detection Using Deep-Learning Framework** | Lam Pham | [arXiv](http://arxiv.org/abs/2604.19652v2) |
 | 2026-04-19 | **HCFD: A Benchmark for Audio Deepfake Detection in Healthcare** | Mohd Mujtaba Akhtar | [arXiv](http://arxiv.org/abs/2604.17642v1) |
 | 2026-04-17 | **ICLAD: In-Context Learning with Comparison-Guidance for Audio Deepfake Detection** | Benjamin Chou | [arXiv](http://arxiv.org/abs/2604.16749v1) |
 | 2026-04-15 | **Classical Machine Learning Baselines for Deepfake Audio Detection on the Fake-or-Real Dataset** | Faheem Ahmad | [arXiv](http://arxiv.org/abs/2604.13400v1) |
