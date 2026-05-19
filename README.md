@@ -1,9 +1,14 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-05-06
+> 最后更新时间: 2026-05-19
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-05-18 | **Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection** | Jun Xue | [arXiv](http://arxiv.org/abs/2605.17737v1) |
+| 2026-05-10 | **RADAR Challenge 2026: Robust Audio Deepfake Recognition under Media Transformations** | Hieu-Thi Luong | [arXiv](http://arxiv.org/abs/2605.09568v2) |
+| 2026-05-09 | **Towards Trustworthy Audio Deepfake Detection: A Systematic Framework for Diagnosing and Mitigating Gender Bias** | Aishwarya Fursule | [arXiv](http://arxiv.org/abs/2605.09087v1) |
+| 2026-05-08 | **Asymmetric Phase Coding Audio Watermarking** | Guang Yang | [arXiv](http://arxiv.org/abs/2605.07241v1) |
+| 2026-05-07 | **Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features** | Lisan Al Amin | [arXiv](http://arxiv.org/abs/2605.06035v1) |
 | 2026-05-05 | **Deepfake Audio Detection Using Self-supervised Fusion Representations** | Khalid Zaman | [arXiv](http://arxiv.org/abs/2605.03420v1) |
 | 2026-05-04 | **Phoneme-Level Deepfake Detection Across Emotional Conditions Using Self-Supervised Embeddings** | Vamshi Nallaguntla | [arXiv](http://arxiv.org/abs/2605.03079v1) |
 | 2026-05-04 | **Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization** | Tung Vu | [arXiv](http://arxiv.org/abs/2605.02223v1) |

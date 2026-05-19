@@ -395,3 +395,8 @@
 {"title": "Deepfake Audio Detection Using Self-supervised Fusion Representations", "first_author": "Khalid Zaman", "url": "http://arxiv.org/abs/2605.03420v1", "id": "2605.03420v1", "published": "2026-05-05"}
 {"title": "Environmental Sound Deepfake Detection Using Deep-Learning Framework", "first_author": "Lam Pham", "url": "http://arxiv.org/abs/2604.19652v2", "id": "2604.19652v2", "published": "2026-04-21"}
 {"title": "RTCFake: Speech Deepfake Detection in Real-Time Communication", "first_author": "Jun Xue", "url": "http://arxiv.org/abs/2604.23742v1", "id": "2604.23742v1", "published": "2026-04-26"}
+{"title": "Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection", "first_author": "Jun Xue", "url": "http://arxiv.org/abs/2605.17737v1", "id": "2605.17737v1", "published": "2026-05-18"}
+{"title": "RADAR Challenge 2026: Robust Audio Deepfake Recognition under Media Transformations", "first_author": "Hieu-Thi Luong", "url": "http://arxiv.org/abs/2605.09568v2", "id": "2605.09568v2", "published": "2026-05-10"}
+{"title": "Towards Trustworthy Audio Deepfake Detection: A Systematic Framework for Diagnosing and Mitigating Gender Bias", "first_author": "Aishwarya Fursule", "url": "http://arxiv.org/abs/2605.09087v1", "id": "2605.09087v1", "published": "2026-05-09"}
+{"title": "Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features", "first_author": "Lisan Al Amin", "url": "http://arxiv.org/abs/2605.06035v1", "id": "2605.06035v1", "published": "2026-05-07"}
+{"title": "Asymmetric Phase Coding Audio Watermarking", "first_author": "Guang Yang", "url": "http://arxiv.org/abs/2605.07241v1", "id": "2605.07241v1", "published": "2026-05-08"}
