@@ -1,11 +1,17 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-05-19
+> 最后更新时间: 2026-06-05
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-06-03 | **FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors** | Sepehr Dehdashtian | [arXiv](http://arxiv.org/abs/2606.05101v1) |
+| 2026-05-28 | **Audio Deepfake Detection with Half-Truth Localisation Using Cross-Attentive Feature Fusion** | S. Sutharya | [arXiv](http://arxiv.org/abs/2605.29531v1) |
+| 2026-05-22 | **MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio** | Qingcao Li | [arXiv](http://arxiv.org/abs/2605.23201v1) |
+| 2026-05-21 | **Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake Perception** | Nicolas M. Müller | [arXiv](http://arxiv.org/abs/2605.26136v1) |
 | 2026-05-18 | **Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection** | Jun Xue | [arXiv](http://arxiv.org/abs/2605.17737v1) |
+| 2026-05-18 | **Escaping the Linearity Trap: Manifold Detours for Black-Box Adversarial Attacks on Singing Audio Deepfake Detection** | Yifan Liao | [arXiv](http://arxiv.org/abs/2605.30366v1) |
 | 2026-05-10 | **RADAR Challenge 2026: Robust Audio Deepfake Recognition under Media Transformations** | Hieu-Thi Luong | [arXiv](http://arxiv.org/abs/2605.09568v2) |
+| 2026-05-10 | **RADAR Challenge 2026: Robust Audio Deepfake Recognition under Media Transformations** | Hieu-Thi Luong | [arXiv](http://arxiv.org/abs/2605.09568v3) |
 | 2026-05-09 | **Towards Trustworthy Audio Deepfake Detection: A Systematic Framework for Diagnosing and Mitigating Gender Bias** | Aishwarya Fursule | [arXiv](http://arxiv.org/abs/2605.09087v1) |
 | 2026-05-08 | **Asymmetric Phase Coding Audio Watermarking** | Guang Yang | [arXiv](http://arxiv.org/abs/2605.07241v1) |
 | 2026-05-07 | **Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features** | Lisan Al Amin | [arXiv](http://arxiv.org/abs/2605.06035v1) |
