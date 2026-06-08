@@ -1,5 +1,11 @@
 # Deepfake Speech Detection Papers
 
+## Tools & Libraries
+
+| Link | Language | Description |
+| :--- | :--- | :--- |
+| [AudioLivenessDetection](https://github.com/mythkiven/AudioLivenessDetection) | Swift | On-device PCM audio liveness detection — distinguish live microphone speech from recorded replay on iOS/macOS. Zero dependencies, SPM + demo. |
+
 > 最后更新时间: 2026-06-05
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
