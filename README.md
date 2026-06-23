@@ -1,11 +1,21 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-06-05
+> 最后更新时间: 2026-06-23
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-06-17 | **FlowFake: Liquid Networks for Audio Deepfake Detection** | Shivaay Dhondiyal | [arXiv](http://arxiv.org/abs/2606.19579v1) |
+| 2026-06-17 | **SingFox: A Multi-Lingual Singfake Detection Corpus** | Arth J. Shah | [arXiv](http://arxiv.org/abs/2606.18985v1) |
+| 2026-06-15 | **Dual-Granularity Orthogonal Disentanglement for Generalizable Audio Deepfake Detection** | Zhuodong Liu | [arXiv](http://arxiv.org/abs/2606.16532v1) |
+| 2026-06-15 | **XAI-Grounded Explanation Generation for Speech Deepfake Detection with Training-Free Multimodal Large Language Models** | Yupei Li | [arXiv](http://arxiv.org/abs/2606.16137v1) |
+| 2026-06-13 | **Phonetically Explainable Speech Deepfake Detection** | Manasi Chhibber | [arXiv](http://arxiv.org/abs/2606.15454v1) |
+| 2026-06-12 | **The Perceived Fragility of Explanations in Audio Models: Manipulation of Attribution with Unchanged Predictions** | Piotr Kitłowski | [arXiv](http://arxiv.org/abs/2606.14466v1) |
+| 2026-06-09 | **Overview of ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge** | Xueping Zhang | [arXiv](http://arxiv.org/abs/2606.10791v1) |
+| 2026-06-08 | **Linguistically Augmented Audio Speech Data (LinguAS)** | Ashley R. Keaton | [arXiv](http://arxiv.org/abs/2606.10246v1) |
+| 2026-06-08 | **Dual-Branch Gated Fusion for Open-Set Audio Deepfake Source Tracing** | Awais Khan | [arXiv](http://arxiv.org/abs/2606.10223v1) |
 | 2026-06-03 | **FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors** | Sepehr Dehdashtian | [arXiv](http://arxiv.org/abs/2606.05101v1) |
 | 2026-05-28 | **Audio Deepfake Detection with Half-Truth Localisation Using Cross-Attentive Feature Fusion** | S. Sutharya | [arXiv](http://arxiv.org/abs/2605.29531v1) |
+| 2026-05-28 | **Audio Deepfake Detection with Half-Truth Localisation Using Cross-Attentive Feature Fusion** | S. Sutharya | [arXiv](http://arxiv.org/abs/2605.29531v2) |
 | 2026-05-22 | **MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio** | Qingcao Li | [arXiv](http://arxiv.org/abs/2605.23201v1) |
 | 2026-05-21 | **Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake Perception** | Nicolas M. Müller | [arXiv](http://arxiv.org/abs/2605.26136v1) |
 | 2026-05-18 | **Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection** | Jun Xue | [arXiv](http://arxiv.org/abs/2605.17737v1) |
