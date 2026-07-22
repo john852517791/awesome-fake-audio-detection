@@ -1,9 +1,20 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-07-02
+> 最后更新时间: 2026-07-22
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-07-20 | **Time-Frequency Consistency Learning for Robust Speech Deepfake Detection** | Jun Xue | [arXiv](http://arxiv.org/abs/2607.17761v1) |
+| 2026-07-17 | **Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection** | André Runewicz | [arXiv](http://arxiv.org/abs/2607.16369v1) |
+| 2026-07-14 | **Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction** | Mattia Tamiazzo | [arXiv](http://arxiv.org/abs/2607.12584v1) |
+| 2026-07-14 | **Traceback Translators Against Forgetting in Continual Fake Speech Detection** | Enrico Gottardis | [arXiv](http://arxiv.org/abs/2607.12569v1) |
+| 2026-07-13 | **Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models** | Yixuan Xiao | [arXiv](http://arxiv.org/abs/2607.11538v1) |
+| 2026-07-11 | **PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions** | Zhenshan Zhang | [arXiv](http://arxiv.org/abs/2607.10345v1) |
+| 2026-07-10 | **What You Train Is What You Get: Gender Bias, Training Composition, and Post-Hoc Mitigation in Audio Deepfake Detection** | Aishwarya R. Fursule | [arXiv](http://arxiv.org/abs/2607.09891v1) |
+| 2026-07-09 | **Why Do You Say It Like That? A Phoneme-Level Framework for Explainable Speech Deepfake Detection** | Anna Taylor | [arXiv](http://arxiv.org/abs/2607.08586v1) |
+| 2026-07-06 | **SynSFX: Multi-Model Sound Effects Synthesis Dataset for Deepfake Detection and Evaluation** | Linxi Li | [arXiv](http://arxiv.org/abs/2607.04848v1) |
+| 2026-07-03 | **DETECT-3B-Omni is Agnostic of Content and Demographics** | Nicolas M. Müller | [arXiv](http://arxiv.org/abs/2607.03418v1) |
+| 2026-07-03 | **An Intervention-Based Framework for Shortcut Diagnosis in Spoofing Countermeasures** | Santiago Rubio | [arXiv](http://arxiv.org/abs/2607.03150v1) |
 | 2026-06-29 | **Probing-Guided Layer Selection from Self-Supervised Speech Models for Generalizable Audio Deepfake Detection** | Marjan Beheshti | [arXiv](http://arxiv.org/abs/2606.30791v1) |
 | 2026-06-29 | **Detecting Audio Deepfakes on the Edge:Lightweight SSL-Based Detection in a Browser Plugin** | Octavian Pascu | [arXiv](http://arxiv.org/abs/2606.30780v1) |
 | 2026-06-28 | **Proteus: Automated Adversarial Robustness Testing for Audio Deepfake Detectors** | Nicolas M. Müller | [arXiv](http://arxiv.org/abs/2606.29544v1) |
