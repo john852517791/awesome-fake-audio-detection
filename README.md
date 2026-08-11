@@ -1,10 +1,24 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-07-22
+> 最后更新时间: 2026-08-11
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-08-10 | **MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection** | Yanqiu Li | [arXiv](http://arxiv.org/abs/2608.09593v1) |
+| 2026-08-06 | **AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks** | Aurosweta Mahapatra | [arXiv](http://arxiv.org/abs/2608.05507v1) |
+| 2026-08-03 | **Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry** | Seunghyun Kim | [arXiv](http://arxiv.org/abs/2608.01796v1) |
+| 2026-08-01 | **Hidden-Domain Routing for All-Type Audio Deepfake Detection** | Yifan Gao | [arXiv](http://arxiv.org/abs/2608.00493v1) |
+| 2026-08-01 | **REIMU: Efficient Heterogeneous Hierarchical Reasoning for SSL-Based Speech Deepfake Detection** | Kwok-Ho Ng | [arXiv](http://arxiv.org/abs/2608.00857v1) |
+| 2026-07-30 | **Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil** | Lucas Rafael Stefanel Gris | [arXiv](http://arxiv.org/abs/2607.28770v1) |
+| 2026-07-30 | **Teffic-Audio: Tell Fact from Fiction** | Wan Lin | [arXiv](http://arxiv.org/abs/2607.28351v1) |
+| 2026-07-29 | **Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection** | Haotian Mo | [arXiv](http://arxiv.org/abs/2607.26472v1) |
+| 2026-07-27 | **Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection** | Mingrui Liang | [arXiv](http://arxiv.org/abs/2607.23961v1) |
+| 2026-07-24 | **How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection** | Ivan Kukanov | [arXiv](http://arxiv.org/abs/2607.22010v1) |
+| 2026-07-23 | **Probing Speaker Identity Sensitivity in Audio Deepfake Detectors** | Daniyal Kabir Dar | [arXiv](http://arxiv.org/abs/2607.21820v1) |
+| 2026-07-23 | **Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores** | Viola Negroni | [arXiv](http://arxiv.org/abs/2607.21127v1) |
+| 2026-07-22 | **Layer-Wise Decision Fusion for Fake Audio Detection Using XLS-R** | Yixuan Xiao | [arXiv](http://arxiv.org/abs/2607.20023v1) |
 | 2026-07-20 | **Time-Frequency Consistency Learning for Robust Speech Deepfake Detection** | Jun Xue | [arXiv](http://arxiv.org/abs/2607.17761v1) |
+| 2026-07-20 | **Time-Frequency Consistency Learning for Robust Speech Deepfake Detection** | Jun Xue | [arXiv](http://arxiv.org/abs/2607.17761v2) |
 | 2026-07-17 | **Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection** | André Runewicz | [arXiv](http://arxiv.org/abs/2607.16369v1) |
 | 2026-07-14 | **Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction** | Mattia Tamiazzo | [arXiv](http://arxiv.org/abs/2607.12584v1) |
 | 2026-07-14 | **Traceback Translators Against Forgetting in Continual Fake Speech Detection** | Enrico Gottardis | [arXiv](http://arxiv.org/abs/2607.12569v1) |
