@@ -3,6 +3,7 @@ import json
 import datetime
 import os
 import logging
+import re
 
 # 配置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -13,7 +14,7 @@ def get_weekly_deepfake_papers():
     new_papers = []
     seen_ids = set() # 用于单次抓取内部去重
     now = datetime.datetime.now(datetime.timezone.utc)
-    last_week = now - datetime.timedelta(days=30)
+    last_week = now - datetime.timedelta(days=100)
     # print(last_week)
     keywords = [
         "deepfake speech detection",
@@ -70,28 +71,58 @@ def get_weekly_deepfake_papers():
 
     return new_papers
 
+def get_paper_key(paper):
+    paper_id = str(paper.get('id', '')).strip()
+    if paper_id:
+        return re.sub(r'v\d+$', '', paper_id)
+    return paper.get('url') or paper.get('title')
+
+def get_arxiv_version(paper):
+    paper_id = str(paper.get('id', ''))
+    match = re.search(r'v(\d+)$', paper_id)
+    return int(match.group(1)) if match else 0
+
+def deduplicate_papers(papers):
+    unique_papers = {}
+    for paper in papers:
+        paper_key = get_paper_key(paper)
+        if not paper_key:
+            continue
+
+        existing_paper = unique_papers.get(paper_key)
+        if existing_paper is None or get_arxiv_version(paper) > get_arxiv_version(existing_paper):
+            unique_papers[paper_key] = paper
+
+    return list(unique_papers.values())
+
+def load_jsonl_papers(filename):
+    papers = []
+    if not os.path.exists(filename):
+        return papers
+
+    with open(filename, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                papers.append(json.loads(line))
+
+    return papers
+
+def write_jsonl_papers(papers, filename):
+    with open(filename, 'w', encoding='utf-8') as f:
+        for paper in papers:
+            f.write(json.dumps(paper, ensure_ascii=False) + "\n")
+
 def save_to_jsonl(papers, filename="papers.jsonl"):
     # 4. 去重并保存到 JSONL
-    # 读取旧数据用于跨次运行去重
-    existing_ids = set()
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
-            for line in f:
-                existing_ids.add(json.loads(line)['id'])
-
-    with open(filename, 'a', encoding='utf-8') as f:
-        for p in papers:
-            if p['id'] not in existing_ids:
-                f.write(json.dumps(p, ensure_ascii=False) + "\n")
-                existing_ids.add(p['id'])
+    # 读取旧数据并重写文件，清理历史重复项和跨版本重复项
+    all_papers = load_jsonl_papers(filename) + papers
+    unique_papers = deduplicate_papers(all_papers)
+    write_jsonl_papers(unique_papers, filename)
 
 def update_readme(jsonl_file, readme_file="README.md"):
     # 5. 转为 Markdown 格式
-    papers = []
-    if os.path.exists(jsonl_file):
-        with open(jsonl_file, 'r', encoding='utf-8') as f:
-            for line in f:
-                papers.append(json.loads(line))
+    papers = deduplicate_papers(load_jsonl_papers(jsonl_file))
 
     # 按发布时间倒序排列
     papers.sort(key=lambda x: x['published'], reverse=True)
