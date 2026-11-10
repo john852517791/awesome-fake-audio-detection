@@ -1,13 +1,25 @@
 # Deepfake Speech Detection Papers
 
-> 最后更新时间: 2026-10-08
+> 最后更新时间: 2026-11-10
 
 | 发布日期 | 文章名 | 第一作者 | 链接 |
 | :--- | :--- | :--- | :--- |
+| 2026-11-05 | **Conflict-Aware Meta-Learning for Generalizable Speech Deepfake Detection** | Siqing Qin | [arXiv](http://arxiv.org/abs/2611.08758v1) |
+| 2026-11-04 | **GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation** | Lee Seung-woo | [arXiv](http://arxiv.org/abs/2611.06171v1) |
+| 2026-11-03 | **CLRM: Cross-Layer Relation Modeling for Audio Deepfake Detection** | Yangyang Qu | [arXiv](http://arxiv.org/abs/2611.05678v1) |
+| 2026-11-03 | **Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis** | Jiayan Cui | [arXiv](http://arxiv.org/abs/2611.04511v1) |
+| 2026-11-02 | **ReplayFactor: Replay-Aware Dual-Attribute Learning for Practical Speech Deepfake Detection** | Miao He | [arXiv](http://arxiv.org/abs/2611.02628v1) |
+| 2026-10-20 | **Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content** | David Fischinger | [arXiv](http://arxiv.org/abs/2610.27974v1) |
+| 2026-10-20 | **RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels** | Li Wang | [arXiv](http://arxiv.org/abs/2610.27459v1) |
+| 2026-10-17 | **SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection** | Chirantan Banerjee | [arXiv](http://arxiv.org/abs/2610.24468v1) |
+| 2026-10-13 | **An Initial Study of Physiological Markers for Deepfake Speech Detection** | Vojtěch Staněk | [arXiv](http://arxiv.org/abs/2610.18934v1) |
+| 2026-10-13 | **What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs** | Wanying Ge | [arXiv](http://arxiv.org/abs/2610.17617v1) |
+| 2026-10-12 | **Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection** | Jianqiao Cui | [arXiv](http://arxiv.org/abs/2610.16049v1) |
 | 2026-10-07 | **DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection** | Shaole Li | [arXiv](http://arxiv.org/abs/2610.10121v1) |
 | 2026-10-07 | **Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection** | Siqing Qin | [arXiv](http://arxiv.org/abs/2610.10094v1) |
+| 2026-10-07 | **Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection** | Muhammed Salih Kayhan | [arXiv](http://arxiv.org/abs/2610.10752v1) |
 | 2026-10-05 | **Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection** | Abdullah | [arXiv](http://arxiv.org/abs/2610.07216v1) |
-| 2026-10-04 | **Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection** | Miao He | [arXiv](http://arxiv.org/abs/2610.05264v1) |
+| 2026-10-04 | **Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection** | Miao He | [arXiv](http://arxiv.org/abs/2610.05264v2) |
 | 2026-10-01 | **A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation** | Yingjian Yu | [arXiv](http://arxiv.org/abs/2610.01259v1) |
 | 2026-10-01 | **FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching** | Yingjian Yu | [arXiv](http://arxiv.org/abs/2610.01242v1) |
 | 2026-10-01 | **UZH-CL at ArA-DF 2026: Prompt-Tuned Foundation Models and Track-Adaptive Score Fusion for Arabic Speech Deepfake Detection** | Aref Farhadipour | [arXiv](http://arxiv.org/abs/2610.08844v1) |
@@ -31,7 +43,7 @@
 | 2026-09-18 | **GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages** | Li Wang | [arXiv](http://arxiv.org/abs/2609.21738v1) |
 | 2026-09-18 | **Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval** | Cristian-Teodor Neamtu | [arXiv](http://arxiv.org/abs/2609.21581v1) |
 | 2026-09-17 | **Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection** | Xiang Li | [arXiv](http://arxiv.org/abs/2609.20063v1) |
-| 2026-09-17 | **CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection** | Kunyu Feng | [arXiv](http://arxiv.org/abs/2609.19818v2) |
+| 2026-09-17 | **CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection** | Kunyu Feng | [arXiv](http://arxiv.org/abs/2609.19818v3) |
 | 2026-09-15 | **Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection** | Minu Kim | [arXiv](http://arxiv.org/abs/2609.16458v1) |
 | 2026-09-12 | **CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection** | Minh-Xuan Phan | [arXiv](http://arxiv.org/abs/2609.13842v1) |
 | 2026-09-10 | **Not All Attacks Are Learned Equally in Speech Deepfake Detection** | Avantika Singh | [arXiv](http://arxiv.org/abs/2609.11763v1) |
@@ -45,7 +57,7 @@
 | 2026-08-26 | **A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography** | Yigitcan Özer | [arXiv](http://arxiv.org/abs/2608.25285v2) |
 | 2026-08-25 | **Investigating voiced and unvoiced regions of speech for audio deepfake detection** | Ganesh Sivaraman | [arXiv](http://arxiv.org/abs/2608.24639v1) |
 | 2026-08-25 | **On the Robustness of Audio Deepfake Detection under Audio Watermarking** | Zi Qian Yong | [arXiv](http://arxiv.org/abs/2608.24159v1) |
-| 2026-08-24 | **AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection** | Yuankun Xie | [arXiv](http://arxiv.org/abs/2608.23437v1) |
+| 2026-08-24 | **AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection** | Yuankun Xie | [arXiv](http://arxiv.org/abs/2608.23437v2) |
 | 2026-08-20 | **Tracking the Trend in How Speech Synthesizers Deceive People** | Milan Šalko | [arXiv](http://arxiv.org/abs/2608.19959v1) |
 | 2026-08-18 | **The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report** | Anton Firc | [arXiv](http://arxiv.org/abs/2608.17585v1) |
 | 2026-08-14 | **AT-ADD: All-Type Audio Deepfake Detection Challenge Summary** | Yuankun Xie | [arXiv](http://arxiv.org/abs/2608.14249v1) |
